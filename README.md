@@ -1,24 +1,18 @@
 # Lila James ✨👩‍💻🌙
 
 **Technologist | Educator | Artist**  
-15+ years teaching & designing on six continents — blending science, creativity, and technology.
+15+ years hacking, teaching, & designing on six continents — blending science, creativity, and technology.
 
 ---
-
 ## 🎓 Education
 
-**Georgia Institute of Technology**  
-*M.Sc. Computer Science* | 2024  
+| Institution                     | Degree & Field                      | Year       |
+|--------------------------------|-----------------------------------|------------|
+| **Georgia Institute of Technology** | M.Sc. in Computer Science          | 2024       |
+| **Goucher College**             | M.A. in Cultural Sustainability    | 2013       |
+| **Towson University**           | B.S. in Sociology                  | 2010       |
+| **Linux Foundation**            | Linux System Administrator Certificate | *In progress* |
 
-**Goucher College**  
-*M.A. Cultural Sustainability* | 2013  
-
-**Towson University**  
-*B.S. Sociology* | 2010  
-
-Currently pursuing:  
-**Linux System Administrator Certificate**  
-*Linux Foundation*
 
 ---
 
@@ -41,9 +35,8 @@ I’ve had the privilege of teaching and designing programs at diverse, global i
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true)  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LilaShiba&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilaShiba&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical) |
+|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 
 ---
 
