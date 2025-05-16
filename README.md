@@ -32,26 +32,26 @@
   <div class="container">
     <h2>Teaching & Design Highlights</h2>
     <p>I've had the honor of designing and teaching programs at a diverse range of institutions:</p>
-    <ul class="institution-list">
-      <li>The Adler Planetarium</li>
-      <li>
-        Riverdale Country School – 
-        <a href="https://www.niche.com/k12/riverdale-country-school-bronx-ny/" target="_blank" rel="noopener" class="styled-link">
-          voted best private school in America
-        </a>
-      </li>
-      <li>Mastercard</li>
-      <li>Berkeley Carroll School</li>
-      <li>Chase Bank</li>
-      <li>Georgia Institute of Technology</li>
-      <li>IBM</li>
-      <li>The Dwight School</li>
-      <li>KPMG</li>
-      <li>P5.js Creative Coding</li>
-      <li>Santander</li>
-      <li>The Flag House Museum</li>
-      <li>My Dog 🐶</li>
-    </ul>
+   <ul class="institution-list">
+    <li>The Adler Planetarium 🪐</li>
+    <li>
+      Riverdale Country School –
+      <a href="https://www.niche.com/k12/riverdale-country-school-bronx-ny/" target="_blank" rel="noopener" class="styled-link">
+        voted best private school in America 🏆
+      </a>
+    </li>
+    <li>Mastercard 💳</li>
+    <li>Berkeley Carroll School 📚</li>
+    <li>Chase Bank 🏦</li>
+    <li>Georgia Institute of Technology 🎓</li>
+    <li>IBM 🖥️</li>
+    <li>The Dwight School 🏫</li>
+    <li>KPMG 📊</li>
+    <li>P5.js Creative Coding 🎨</li>
+    <li>Santander 💰</li>
+    <li>The Flag House Museum 🏛️</li>
+    <li>My Dog 🐶</li>
+  </ul>
     <div class="image-container">
       <img src="../assets/imgs/estelle.jpg" alt="Estelle the dog, possibly the best co-teacher ever" class="dog-photo" />
     </div>

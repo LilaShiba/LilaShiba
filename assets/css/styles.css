@@ -7,6 +7,14 @@
     margin-top: 1em;
     margin-bottom: 2em;
   }
+  .institution-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem 2rem; /* row gap 1rem, column gap 2rem */
+    list-style-type: disc;
+    padding-left: 1.25rem; /* keep bullets aligned nicely */
+  }
+  
 
   .github-stats-item {
     flex: 1 1 320px;
