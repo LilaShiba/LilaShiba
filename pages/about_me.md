@@ -1,4 +1,7 @@
-
+---
+layout: default
+permalink: /about/
+---
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -9,16 +12,6 @@
 
 <body class="cats">
 
-<!-- Main Header -->
-<header class="navbar">
-  <nav id="nav-links" class="nav-links">
-    <a href="/sparkle_workshop/">Home</a>
-    <a href="/sparkle_workshop/about/">Instructor</a>
-    <a href="/sparkle_workshop/lessons/">Lessons</a>
-    <a href="/sparkle_workshop/workshop/">Workshop</a>
-  </nav>
-  <div class="hamburger" onclick="toggleMenu()">🍔</div>
-</header>
 
 <header>
 <section class="intro-section">
@@ -37,6 +30,24 @@
   </div> 
   </section>
 </header>
+## 📈 GitHub Stats
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+
+  <div style="flex: 1 1 300px; max-width: 320px;">
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilaShiba&theme=tokyonight)
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 320px;">
+    ![LilaShiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=tokyonight&hide_rank=true)
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 320px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=tokyonight)
+  </div>
+
+</div>
+
 
 <section class="step">
   <div class="container">

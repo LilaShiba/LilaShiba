@@ -1,0 +1,16 @@
+description: ✨ Project Sparkel ✨.
+theme: minima
+
+url: "https://lilaShiba.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+social_links:
+  github: "https://github.com/LilaShiba"
+  twitter: "https://twitter.com/your-username"
+
+
+# Custom CSS file link
+assets:
+  - "styles.css"
