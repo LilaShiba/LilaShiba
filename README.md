@@ -9,16 +9,6 @@
 
 <body class="cats">
 
-<!-- Main Header -->
-<header class="navbar">
-  <nav id="nav-links" class="nav-links">
-    <a href="/sparkle_workshop/">Home</a>
-    <a href="/sparkle_workshop/about/">Instructor</a>
-    <a href="/sparkle_workshop/lessons/">Lessons</a>
-    <a href="/sparkle_workshop/workshop/">Workshop</a>
-  </nav>
-  <div class="hamburger" onclick="toggleMenu()">🍔</div>
-</header>
 
 <header>
 <section class="intro-section">
@@ -67,10 +57,31 @@
     </div>
   </div>
 </section>
-
-
-
-
+<section class="step glow-hover">
+  <div class="container">
+    <h2>GitHub Stats</h2>
+    <div class="github-stats-container">
+      <div class="github-stats-item">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&count_private=true"
+          alt="GitHub Stats"
+        />
+      </div>
+      <div class="github-stats-item">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=LilaShiba&theme=radical"
+          alt="GitHub Streak Stats"
+        />
+      </div>
+      <div class="github-stats-item">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical"
+          alt="Top Languages"
+        />
+      </div>
+    </div>
+  </div>
+</section>
 <section class="step">
   <div class="container">
     <div class="section-header">
