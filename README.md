@@ -63,7 +63,7 @@
     <div class="github-stats-container">
       <div class="github-stats-item">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true"
           alt="GitHub Stats"
         />
       </div>
