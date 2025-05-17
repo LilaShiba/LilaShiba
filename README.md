@@ -1,6 +1,6 @@
 # Lila James ✨👩‍💻🌙 
 
-You're average doll 🏳️‍⚧️ trying to make the world better through computer **science** and radical empathy
+Your average doll 🏳️‍⚧️ trying to make the world better through computer **science** and radical empathy
 
 ## Current Work
 #### 🪄✨💖 [Sp00kyVectors](https://pypi.org/project/Sp00kyVectors/0.1.3/)
