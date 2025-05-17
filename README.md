@@ -1,16 +1,45 @@
-# Lila James ✨👩‍💻🌙 
-
-Your average doll 🏳️‍⚧️ trying to make the world better through computer **science** and radical empathy
+## Lila James ✨👩‍💻🌙
+<p align="center">Your average doll 🏳️‍⚧️ trying to make the world better through computer <strong>science</strong> and radical empathy</p>
 
 ## Current Work
-#### 🪄✨💖 [Sp00kyVectors](https://pypi.org/project/Sp00kyVectors/0.1.3/)
-![PyPI](https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square)
-![Python Version](https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square)
-![License](https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square)
-![Followers](https://img.shields.io/github/followers/LilaShiba?style=social)
-![PyPI Downloads](https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square)
- 
-— crafting spooky vector magic for Math AI education!
+
+<table>
+  <tr>
+    <!-- Sp00kyVectors -->
+    <td align="center" width="50%" valign="top">
+      <a href="https://pypi.org/project/Sp00kyVectors/0.1.3/">
+        <h3 style="margin-bottom: 0.25em;">🪄✨💖 Sp00kyVectors</h3>
+      </a>
+      <p>Crafting spooky vector magic for Math AI education!</p>
+      <p>
+        <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
+        <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
+        <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+        <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" />
+      </p>
+      <table>
+        <tr>
+          <th>Before</th>
+          <th>After</th>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_before_clean.png?raw=true" width="150"/></td>
+          <td><img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_after_clean.png?raw=true" width="150"/></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Project Sparkle -->
+    <td align="center" width="50%" valign="top">
+      <a href="https://lilashiba.github.io/sparkle_workshop/">
+        <h3 style="margin-bottom: 0.25em;">🌟 Project Sparkle</h3>
+      </a>
+      <p>Bringing AI creativity to life with interactive workshops and shimmering style.</p>
+      <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="150"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 📊 GitHub Stats
 
