@@ -27,9 +27,12 @@ I’ve had the privilege of teaching and designing programs at diverse, global i
 | IBM 🖥️                            | The Dwight School 🏫                                  | Santander 💰                     |
 | P5.js Creative Coding 🎨           | Georgia Institute of Technology 🎓                     | KPMG 📊                          |
 
-*And yes, my dog has been a wonderful co-teacher 🐶*
+*Best Teacher Ever🐶*
 
-![Estelle the dog, possibly the best co-teacher ever](../assets/imgs/estelle.jpg)
+<p align="center">
+  <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" alt="Estelle the dog, possibly the best co-teacher ever" width="300"/>
+</p>
+
 
 ---
 
