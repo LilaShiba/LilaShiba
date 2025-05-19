@@ -8,9 +8,9 @@
     <!-- Sp00kyVectors -->
     <td align="center" width="50%" valign="top">
       <a href="https://pypi.org/project/Sp00kyVectors/0.1.3/">
-        <h3 style="margin-bottom: 0.25em;">🪄✨💖 Sp00kyVectors</h3>
+        <h3 style="margin-bottom: 0.25em;"> <a href ='https://pypi.org/project/Sp00kyVectors/'>🪄✨💖 Sp00kyVectors</a></h3>
       </a>
-      <p>Crafting spooky vector magic for Math AI education!</p>
+      <p>Crafting spooky vector magic  for Math AI education!</p>
       <p>
         <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
@@ -31,7 +31,7 @@
     <!-- Project Sparkle -->
     <td align="center" width="50%" valign="top">
       <a href="https://lilashiba.github.io/sparkle_workshop/">
-        <h3 style="margin-bottom: 0.25em;">🌟 Project Sparkle</h3>
+        <h3 style="margin-bottom: 0.25em;"><a href='https://lilashiba.github.io/sparkle_workshop/'>🌟 Project Sparkle</a></h3>
       </a>
       <p>Bringing AI creativity to life with interactive workshops and shimmering style.</p>
       <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="150"/>
