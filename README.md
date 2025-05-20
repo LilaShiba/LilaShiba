@@ -40,11 +40,14 @@
 </table>
 
 
+<div align="center">
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilaShiba&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical) |
-|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical) |
+|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+
+</div>
 
 
 ## 💼 Teaching & Design Experience
