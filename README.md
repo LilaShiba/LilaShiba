@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
-        <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" />
+        <!--  <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" /> -->
       </p>
       <table>
         <tr>
