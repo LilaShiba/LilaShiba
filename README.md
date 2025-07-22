@@ -36,7 +36,7 @@
       <a href="https://lilashiba.github.io/sparkle_workshop/">
         <h3 style="margin-bottom: 0.25em;"><a href='https://lilashiba.github.io/sparkle_workshop/'>🌟 Project Sparkle</a></h3>
       </a>
-      <img src="https://img.shields.io/badge/Project-Project%20Sparkle-ff69b4?style=flat-square" />
+      <img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" alt="Made for Teaching" />
       <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
       <p>Bringing AI creativity to life with interactive workshops and shimmering style.</p>
