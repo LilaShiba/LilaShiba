@@ -41,6 +41,21 @@
     </td>
   </tr>
 </table>
+<!-- Book Project -->
+<td align="center" width="50%" valign="top">
+  <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">
+    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">📘 The Human Manual for Machines</a></h3>
+  </a>
+   <p>A radical field guide for reclaiming technological autonomy and exposing the hidden mechanics of digital control — through systems thinking, storytelling, and code.</p>
+  <p><em>Speculative nonfiction meets ethical hacking and cultural theory, woven together with experimental design and hands-on, illustrated investigations.</em></p>
+
+  
+  ![Manuscript Status](https://img.shields.io/badge/Status-In%20Proposal%20Phase-blue?style=flat-square)
+  ![Genre](https://img.shields.io/badge/Genre-Speculative%20Nonfiction-purple?style=flat-square)
+  ![Writing](https://img.shields.io/badge/Writing-In%20Progress-yellow?style=flat-square)
+  ![Target Length](https://img.shields.io/badge/Target%20Length-~75%2C000%20words-lightgrey?style=flat-square)
+
+</td>
 
 
 <div align="center">
