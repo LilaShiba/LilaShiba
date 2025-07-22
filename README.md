@@ -13,11 +13,11 @@
       <a href="https://pypi.org/project/Sp00kyVectors/0.1.3/">
         <h3 style="margin-bottom: 0.25em;"> <a href ='https://pypi.org/project/Sp00kyVectors/'>🪄✨💖 Sp00kyVectors</a></h3>
       </a>
-      <p>Crafting spooky vector magic  for Math AI education!</p>
-      <p>
-        <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
+      <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+      <p>Crafting spooky vector magic  for Math AI education!</p>
+      <p>
         <!--  <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" /> -->
       </p>
       <table>
@@ -36,6 +36,9 @@
       <a href="https://lilashiba.github.io/sparkle_workshop/">
         <h3 style="margin-bottom: 0.25em;"><a href='https://lilashiba.github.io/sparkle_workshop/'>🌟 Project Sparkle</a></h3>
       </a>
+      <img src="https://img.shields.io/badge/Project-Project%20Sparkle-ff69b4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
       <p>Bringing AI creativity to life with interactive workshops and shimmering style.</p>
       <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="150"/>
     </td>
@@ -52,8 +55,11 @@
   
   ![Manuscript Status](https://img.shields.io/badge/Status-In%20Proposal%20Phase-blue?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Speculative%20Nonfiction-purple?style=flat-square)
-  ![Writing](https://img.shields.io/badge/Writing-In%20Progress-yellow?style=flat-square)
   ![Target Length](https://img.shields.io/badge/Target%20Length-~75%2C000%20words-lightgrey?style=flat-square)
+  <img src="https://img.shields.io/badge/Themes-Culture%20%7C%20Code%20%7C%20Resistance-magenta?style=flat-square" />
+
+  <!-- Style -->
+  <img src="https://img.shields.io/badge/Writing-System%20Dynamics%20%2B%20Cyberpunk-red?style=flat-square" />
 
 </td>
 
@@ -93,8 +99,5 @@ I’ve had the privilege of teaching and designing programs at diverse, global i
 | **Goucher College**             | M.A. in Cultural Sustainability    | 2013       |
 | **Towson University**           | B.S. in Sociology                  | 2010       |
 | **Linux Foundation**            | Linux System Administrator Certificate | *In progress* |
-
-
-
 
  
