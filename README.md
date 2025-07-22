@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
-      <p>Crafting spooky vector magic  for Math AI education!</p>
+      <p>Vector magic Neural Net creation</p>
       <p>
         <!--  <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" /> -->
       </p>
@@ -86,7 +86,7 @@ I’ve had the privilege of teaching and designing programs at diverse, global i
 | IBM 🖥️                            | The Dwight School 🏫                                  | Santander 💰                     |
 | P5.js Creative Coding 🎨           | Georgia Institute of Technology 🎓                     | KPMG 📊                          |
 
-*Best Teacher Ever🐶*
+*Senior Programmer🐶*
 <p align="center">
   <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" alt="Estelle the dog, possibly the best co-teacher ever" width="300"/>
 </p>
