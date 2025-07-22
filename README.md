@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats
 
-[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)
+💙💎🧊💎💙[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)💙💎🧊💎💙
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical) |
 |----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
