@@ -63,6 +63,25 @@
 
 </td>
 
+<!-- Book Project -->
+<td align="center" width="50%" valign="top">
+  <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">
+    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">🚀 The Run</a></h3>
+  </a>
+   <p>A hard science fiction odyssey aboard a generation starship — where the frozen elite sleep, the working class toils, and two “runners” awaken for two fleeting weeks every other generation to ensure continuity .</p>
+   <p><em>At the intersection of cybernetics, class struggle, and love under the shadow of diaspora, two questionable souls meet in a blaze of fireworks on the eve of launch — and embark on a story that questions what it means to be human when flesh, metal, and love collide.</em></p>
+
+  ![Manuscript Status](https://img.shields.io/badge/Status-In%20Drafting%20Phase-blue?style=flat-square)
+  ![Genre](https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square)
+  ![Target Length](https://img.shields.io/badge/Target%20Length-~100%2C000%20words-lightgrey?style=flat-square)
+  <img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
+
+  <!-- Style -->
+  <img src="https://img.shields.io/badge/Writing-Hard%20Sci--Fi%20%2B%20Character--Driven-red?style=flat-square" />
+
+</td>
+
+
 
 <div align="center">
 
