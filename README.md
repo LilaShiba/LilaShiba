@@ -50,14 +50,14 @@
   <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">
     <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">📘 The Human Manual for Machines</a></h3>
   </a>
-   <p>A radical field guide for reclaiming technological autonomy and exposing the hidden mechanics of digital control — through systems thinking, storytelling, and code.</p>
+   <p>A radical, often funny, field guide for reclaiming technological autonomy and exposing how humans and machines shape each other. Blending speculative nonfiction with ethical hacking and cultural theory, this book offers hands-on investigations and custom software. It demystifies the digital panopticon and grounds future predictions in an entertaining narrative, providing concrete tools to understand and intervene in the systems of power shaping our digital age.</p>
   <p><em>Speculative nonfiction meets ethical hacking and cultural theory, woven together with experimental design and hands-on, illustrated investigations.</em></p>
 
   
   ![Manuscript Status](https://img.shields.io/badge/Status-In%20Proposal%20Phase-blue?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Speculative%20Nonfiction-purple?style=flat-square)
   ![Target Length](https://img.shields.io/badge/Target%20Length-~75%2C000%20words-lightgrey?style=flat-square)
-  <img src="https://img.shields.io/badge/Themes-Culture%20%7C%20Code%20%7C%20Resistance-magenta?style=flat-square" />
+ <!-- <img src="https://img.shields.io/badge/Themes-Culture%20%7C%20Code%20%7C%20Resistance-magenta?style=flat-square" /> -->
 
   <!-- Style -->
   <img src="https://img.shields.io/badge/Writing-System%20Dynamics%20%2B%20Cyberpunk-red?style=flat-square" />
