@@ -47,7 +47,7 @@
 </table>
 <!-- Book Project -->
 <td align="center" width="50%" valign="top">
-  <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">
+  <a href="https://github.com/LilaShiba/The-Human-Manual-for-Machines/blob/main/The%20Dark%20Ages-1.pdf">
     <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">📘 The Human Manual for Machines</a></h3>
   </a>
    <p>A radical, often funny, field guide for reclaiming technological autonomy and exposing how humans and machines shape each other. Blending speculative nonfiction with ethical hacking and cultural theory, this book offers hands-on investigations and custom software. It demystifies the digital panopticon and grounds future predictions in an entertaining narrative, providing concrete tools to understand and intervene in the systems of power shaping our digital age.</p>
