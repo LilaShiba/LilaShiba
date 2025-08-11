@@ -53,7 +53,7 @@
    <p>A radical, often funny, field guide for reclaiming technological autonomy and exposing how humans and machines shape each other. Blending speculative nonfiction with ethical hacking and cultural theory, this book offers hands-on investigations and custom software. It demystifies the digital panopticon and grounds future predictions in an entertaining narrative, providing concrete tools to understand and intervene in the systems of power shaping our digital age.</p>
   <p><em>Speculative nonfiction meets ethical hacking and cultural theory, woven together with experimental design and hands-on, illustrated investigations.</em></p>
 
-  <p>Read the <a href="https://docs.google.com/document/d/1QzSMDGcYxAhQcrnApisGC2mMS11DIcJPD-VlbCaiEt8/edit?usp=sharing"> first chapter here </a></p>
+  <p>Read the <a href="https://github.com/LilaShiba/The-Human-Manual-for-Machines/blob/main/The%20Dark%20Ages-1.pdf"> first chapter here </a></p>
 
   ![Manuscript Status](https://img.shields.io/badge/Status-In%20Proposal%20Phase-blue?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Speculative%20Nonfiction-purple?style=flat-square)
