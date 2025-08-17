@@ -45,6 +45,9 @@
     </td>
   </tr>
 </table>
+
+## Books
+
 <!-- Book Project -->
 <td align="center" width="50%" valign="top">
   <a href="https://github.com/LilaShiba/The-Human-Manual-for-Machines/blob/main/The%20Dark%20Ages-1.pdf">
@@ -53,7 +56,7 @@
    <p>A radical, often funny, field guide for reclaiming technological autonomy and exposing how humans and machines shape each other. Blending speculative nonfiction with ethical hacking and cultural theory, this book offers hands-on investigations and custom software. It demystifies the digital panopticon and grounds future predictions in an entertaining narrative, providing concrete tools to understand and intervene in the systems of power shaping our digital age.</p>
   <p><em>Speculative nonfiction meets ethical hacking and cultural theory, woven together with experimental design and hands-on, illustrated investigations.</em></p>
 
-  <p>Read the <a href="https://github.com/LilaShiba/The-Human-Manual-for-Machines/blob/main/The%20Dark%20Ages-1.pdf"> first chapter here </a></p>
+  <p>Read the <a href="https://github.com/LilaShiba/The-Human-Manual-for-Machines/blob/main/The%20Dark%20Ages-1.pdf"> Read the manuscript here </a></p>
 
   ![Manuscript Status](https://img.shields.io/badge/Status-In%20Proposal%20Phase-blue?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Speculative%20Nonfiction-purple?style=flat-square)
@@ -86,7 +89,7 @@
 <!-- Book Project -->
 <td align="center" width="50%" valign="top">
   <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">
-    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">🚀 The Run</a></h3>
+    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">🚀Run</a></h3>
   </a>
    <p>A hard science fiction odyssey aboard a generation starship — where the frozen elite sleep, the working class toils, and two “runners” awaken for two fleeting weeks every other generation to ensure continuity .</p>
    <p><em>At the intersection of cybernetics, class struggle, and love under the shadow of diaspora, two questionable souls meet in a blaze of fireworks on the eve of launch — and embark on a story that questions what it means to be human when flesh, metal, and love collide.</em></p>
