@@ -72,7 +72,7 @@
    <p>A memoir of survival and transformation, this book walks the knife’s edge between the sacred and the profane. Set against the backdrop of hospitals, love, and raw encounters with mortality, it tells the story of a transgender woman who faces death and comes back altered. By weaving personal narrative with myth, rage, and tenderness, it exposes what lies between fear and freedom—between the living and the dead.</p>
   <p><em>A hybrid of memoir and myth, a confrontation with illness, gender, and rebirth written in sharp, lyrical prose.</em></p>
 
-  <p>Read the <a href="https://docs.google.com/document/d/1lSySMJA0rfJi5EoHwVc5Db66MO3wJRksNP4OBSQ9dks/edit?usp=sharing"> manuscript draft here </a></p>
+  <p>Read the <a href="https://docs.google.com/document/d/1lSySMJA0rfJi5EoHwVc5Db66MO3wJRksNP4OBSQ9dks/edit?usp=sharing"> sample chapter here </a></p>
 
   ![Manuscript Status](https://img.shields.io/badge/Status-Draft%20in%20Progress-orange?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Memoir%20%7C%20Hybrid-darkred?style=flat-square)
