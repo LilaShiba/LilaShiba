@@ -51,7 +51,7 @@
 <!-- Book Project -->
 <td align="center" width="50%" valign="top">
   <a href="https://docs.google.com/document/d/1xXcowbdC6QtG1pDs2AhIIQplkh6IXP-r7h1aRY-WSRI/edit?usp=sharing">
-    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">📘 The Human Manual for Machines</a></h3>
+    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">📘 Human Manual for Machines</a></h3>
   </a>
    <p>A radical, often funny, field guide for reclaiming technological autonomy and exposing how humans and machines shape each other. The Human Manual for Machines dismantles the myth of inevitable technological progress with a razor-sharp mix of storytelling, ethical hacking case studies, and narrative historical flashpoints. It takes readers deep into the hidden architecture of System Dynamics, exposing the dark underbelly of “business as usual” and daring them to imagine the next decade without illusion.
 </em></p>
