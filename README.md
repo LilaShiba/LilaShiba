@@ -1,5 +1,5 @@
 ## Lila James ✨👩‍💻🌙
-<p align="center">🏳️‍⚧️ Computer Witch, Writer, and Educator 🏳️‍⚧️ <strong>science</strong> and radical empathy</p>
+<p align="center">🏳️‍⚧️ Computer Witch, Writer, and Educator 🏳️‍⚧️ <strong></strong></p>
 
 
   
