@@ -1,5 +1,5 @@
 ## Lila James ✨👩‍💻🌙
-<p align="center">Your average doll 🏳️‍⚧️ trying to make the world better through computer <strong>science</strong> and radical empathy</p>
+<p align="center">🏳️‍⚧️ Computer Witch, Writer, and Educator 🏳️‍⚧️ <strong>science</strong> and radical empathy</p>
 
 
   
