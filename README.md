@@ -91,7 +91,7 @@
   <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">
     <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">🚀Run</a></h3>
   </a>
-   <p>A hard science fiction odyssey aboard a generation starship — where the frozen elite sleep, the working class toils, and two “runners” awaken for two fleeting weeks every other generation to ensure continuity .</p>
+   <p>A hard science fiction odyssey aboard a generation starship — where the frozen elite sleep, the working class toils, and two “runners” awaken for a fleeting week per generation--to ensure continuity .</p>
    <p><em>At the intersection of cybernetics, class struggle, and love under the shadow of diaspora, two questionable souls meet in a blaze of fireworks on the eve of launch — and embark on a story that questions what it means to be human when flesh, metal, and love collide.</em></p>
 
   ![Manuscript Status](https://img.shields.io/badge/Status-In%20Drafting%20Phase-blue?style=flat-square)
