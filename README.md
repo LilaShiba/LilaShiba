@@ -140,6 +140,6 @@ I’ve had the privilege of teaching and designing programs at diverse, global i
 | **Georgia Institute of Technology** | M.Sc. in Computer Science          | 2024       |
 | **Goucher College**             | M.A. in Cultural Sustainability    | 2013       |
 | **Towson University**           | B.S. in Sociology                  | 2010       |
-| **Linux Foundation**            | Linux System Administrator Certificate | *In progress* 2025|
+| **Linux Foundation**            | Linux System Administrator | 2025|
 
  
