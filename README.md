@@ -86,7 +86,7 @@
 
   <p>Read the <a href="https://docs.google.com/document/d/1lSySMJA0rfJi5EoHwVc5Db66MO3wJRksNP4OBSQ9dks/edit?usp=sharing"> sample chapter here </a></p>
 
-  ![Manuscript Status](https://img.shields.io/badge/Status-Draft%20in%20Progress-orange?style=flat-square)
+  ![Submissions](https://img.shields.io/badge/Status-Submissions-purple?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Memoir%20%7C%20Hybrid-darkred?style=flat-square)
   ![Target Length](https://img.shields.io/badge/Target%20Length-~100%2C000%20words-lightgrey?style=flat-square)
   <!-- <img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Identity%20%7C%20Mythic%20Rebirth-crimson?style=flat-square" /> -->
@@ -116,7 +116,7 @@
 
 
 
-## 💼 Teaching & Design Experience
+## 💼 Design Experience
 
 I’ve had the privilege of teaching and designing programs at diverse, global institutions:
 
