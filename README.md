@@ -13,7 +13,7 @@
 
 </div>
 
-## Custom Tooling 🛠️⛭
+## Bespoke Tooling 🛠️⛭
 
 <table>
   <tr>
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
-      <p>Vector magic & Neural Net generator</p>
+      <p>Vector analysis & Neural Net generator</p>
       <p style="margin-bottom: 0.25em;"> <a href ='https://github.com/LilaShiba/sp00kyvectors'>Fork, Pull, Push</a></p>
       <p>
        <!--- <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" /> --->
