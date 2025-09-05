@@ -20,12 +20,12 @@
     <!-- Sp00kyVectors -->
     <td align="center" width="50%" valign="top">
       <a href="https://pypi.org/project/Sp00kyVectors/0.1.3/">
-        <h3 style="margin-bottom: 0.25em;"> <a href ='https://pypi.org/project/Sp00kyVectors/'>🪄✨💖 Sp00kyVectors</a></h3>
+        <h3 style="margin-bottom: 0.25em;"> <a href ='https://pypi.org/project/Sp00kyVectors/'>🪄✨💖 Neural Net Generator</a></h3>
       </a>
       <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
         <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
-      <p>Vector analysis & Neural Net generator</p>
+      <p>Vector analysis & Bespoke Neural Net Layers</p>
       <p style="margin-bottom: 0.25em;"> <a href ='https://github.com/LilaShiba/sp00kyvectors'>Fork, Pull, Push</a></p>
       <p>
        <!--- <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" /> --->
@@ -59,13 +59,14 @@
 
 <!-- Book Project -->
 <td align="center" width="50%" valign="top">
-  <a href="https://docs.google.com/document/d/1lSySMJA0rfJi5EoHwVc5Db66MO3wJRksNP4OBSQ9dks/edit?usp=sharing">
-    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1lSySMJA0rfJi5EoHwVc5Db66MO3wJRksNP4OBSQ9dks/edit?usp=sharing">📖 The Devil Between</a></h3>
+  <a href="https://docs.google.com/document/d/1PUGITyR40SxmWZleIvgzXIQ6FMkKoxt9EZ45sMzovBA/edit?usp=sharing">
+  <a href="">
+    <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1PUGITyR40SxmWZleIvgzXIQ6FMkKoxt9EZ45sMzovBA/edit?usp=sharing">📖 The Devil Between</a></h3>
   </a>
    <p>A memoir of survival and transformation, this book walks the knife’s edge between the sacred and the profane. Set against the backdrop of hospitals, love, and raw encounters with mortality, it tells the story of a transgender woman who faces death and comes back altered. By weaving personal narrative with myth, rage, and tenderness, it exposes what lies between fear and freedom—between the living and the dead.</p>
   <p><em>A hybrid of memoir and myth, a confrontation with illness, gender, and rebirth written in sharp, lyrical prose.</em></p>
 
-  <p>Read the <a href="https://docs.google.com/document/d/1lSySMJA0rfJi5EoHwVc5Db66MO3wJRksNP4OBSQ9dks/edit?usp=sharing"> sample chapter here </a></p>
+  <p>Read the <a href="https://docs.google.com/document/d/1PUGITyR40SxmWZleIvgzXIQ6FMkKoxt9EZ45sMzovBA/edit?usp=sharing"> sample chapter here </a></p>
 
   ![Submissions](https://img.shields.io/badge/Status-Submissions-purple?style=flat-square)
   ![Genre](https://img.shields.io/badge/Genre-Memoir%20%7C%20Hybrid-darkred?style=flat-square)
