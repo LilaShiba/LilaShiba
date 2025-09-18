@@ -86,8 +86,8 @@
 
   <p>Read the <a href="https://docs.google.com/document/d/1xXcowbdC6QtG1pDs2AhIIQplkh6IXP-r7h1aRY-WSRI/edit?usp=sharing"> Read the manuscript here </a></p>
 
-  ![Querying](https://img.shields.io/badge/Status-Querying-blue?style=flat-square)
-  ![Genre](https://img.shields.io/badge/Genre-Speculative%20Nonfiction-purple?style=flat-square)
+✨  ![Under Peer Review](https://img.shields.io/badge/Status-Under%20Peer%20Review-purple?style=flat-square) ✨
+  ![Genre](https://img.shields.io/badge/Genre-System%20Dynamics-purple?style=flat-square)
   ![Target Length](https://img.shields.io/badge/Target%20Length-~75%2C000%20words-lightgrey?style=flat-square)
  <!-- <img src="https://img.shields.io/badge/Themes-Culture%20%7C%20Code%20%7C%20Resistance-magenta?style=flat-square" /> -->
   <!-- Style -->
