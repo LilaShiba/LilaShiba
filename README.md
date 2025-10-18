@@ -58,7 +58,7 @@
 ## Books
 
 <!-- Book Project -->
-<td align="center" width="50%" valign="top">
+<!-- <td align="center" width="50%" valign="top">
   <a href="https://docs.google.com/document/d/1PUGITyR40SxmWZleIvgzXIQ6FMkKoxt9EZ45sMzovBA/edit?usp=sharing">
   <a href="">
     <h3 style="margin-bottom: 0.25em;"><a href="https://docs.google.com/document/d/1PUGITyR40SxmWZleIvgzXIQ6FMkKoxt9EZ45sMzovBA/edit?usp=sharing">📖 The Devil Between</a></h3>
@@ -73,8 +73,8 @@
   ![Target Length](https://img.shields.io/badge/Target%20Length-~100%2C000%20words-lightgrey?style=flat-square)
   <!-- <img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Identity%20%7C%20Mythic%20Rebirth-crimson?style=flat-square" /> -->
   <!-- Style -->
-  <img src="https://img.shields.io/badge/Writing-Lyrical%20%2B%20Visceral-black?style=flat-square" />
-</td>
+<!-- <img src="https://img.shields.io/badge/Writing-Lyrical%20%2B%20Visceral-black?style=flat-square" /> 
+</td> --> 
 
 <!-- Book Project -->
 <td align="center" width="50%" valign="top">
