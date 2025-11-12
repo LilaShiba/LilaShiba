@@ -55,6 +55,36 @@
   </tr>
 </table>
 
+## 🎓 Education
+
+| Institution                     | Degree & Field                      | Year       |
+|--------------------------------|-----------------------------------|------------|
+| **Linux Foundation**            | Linux System Administrator | 2025|
+| **Georgia Institute of Technology** | M.Sc. in Computer Science          | 2024       |
+| **Goucher College**             | M.A. in Cultural Sustainability    | 2013       |
+| **Towson University**           | B.S. in Sociology                  | 2010       |
+
+
+
+
+
+## 💼 Design Experience
+
+I’ve had the privilege of teaching and designing programs at diverse, global institutions:
+
+| **Science & Museums**               | **K-12 & Higher Education**                           | **Corporate & Industry**            |
+|-----------------------------------|------------------------------------------------------|-----------------------------------|
+| The Adler Planetarium 🪐           | Riverdale Country School ([Best private school 🏆](https://www.niche.com/k12/riverdale-country-school-bronx-ny/)) | Mastercard 💳                    |
+| The Flag House Museum 🏛️           | Berkeley Carroll School 📚                            | Chase Bank 🏦                    |
+| IBM 🖥️                            | The Dwight School 🏫                                  | Santander 💰                     |
+| P5.js Creative Coding 🎨           | Georgia Institute of Technology 🎓                     | KPMG 📊                          |
+
+*Senior Programmer🐶*
+<p align="center">
+  <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" alt="Estelle the dog, possibly the best co-teacher ever" width="300"/>
+</p>
+
+
 ## Books
 
 <!-- Book Project -->
@@ -115,31 +145,5 @@
 </td>
 
 
-
-
-## 💼 Design Experience
-
-I’ve had the privilege of teaching and designing programs at diverse, global institutions:
-
-| **Science & Museums**               | **K-12 & Higher Education**                           | **Corporate & Industry**            |
-|-----------------------------------|------------------------------------------------------|-----------------------------------|
-| The Adler Planetarium 🪐           | Riverdale Country School ([Best private school 🏆](https://www.niche.com/k12/riverdale-country-school-bronx-ny/)) | Mastercard 💳                    |
-| The Flag House Museum 🏛️           | Berkeley Carroll School 📚                            | Chase Bank 🏦                    |
-| IBM 🖥️                            | The Dwight School 🏫                                  | Santander 💰                     |
-| P5.js Creative Coding 🎨           | Georgia Institute of Technology 🎓                     | KPMG 📊                          |
-
-*Senior Programmer🐶*
-<p align="center">
-  <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" alt="Estelle the dog, possibly the best co-teacher ever" width="300"/>
-</p>
-
-## 🎓 Education
-
-| Institution                     | Degree & Field                      | Year       |
-|--------------------------------|-----------------------------------|------------|
-| **Georgia Institute of Technology** | M.Sc. in Computer Science          | 2024       |
-| **Goucher College**             | M.A. in Cultural Sustainability    | 2013       |
-| **Towson University**           | B.S. in Sociology                  | 2010       |
-| **Linux Foundation**            | Linux System Administrator | 2025|
 
  
