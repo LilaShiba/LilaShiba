@@ -19,18 +19,17 @@
   <tr>
     <!-- Sp00kyVectors -->
     <td align="center" width="50%" valign="top">
-      <a href="https://pypi.org/project/Sp00kyVectors/0.1.3/">
-        <h3 style="margin-bottom: 0.25em;"> <a href ='https://pypi.org/project/Sp00kyVectors/'>🪄✨💖 Neural Net Generator</a></h3>
+      <a href="https://pypi.org/project/Sp00kyVectors/">
+        <h3 style="margin-bottom: 0.25em;">🪄✨💖 Neural Net Generator</h3>
       </a>
       <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
-        <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
-        <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+      <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
+      <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
       <p>Vector analysis & Bespoke Neural Net Architectures</p>
-      <p style="margin-bottom: 0.25em;"> <a href ='https://github.com/LilaShiba/sp00kyvectors'>Fork, Pull, Push</a></p>
-      <p>
-       <!--- <img src="https://img.shields.io/pypi/dm/Sp00kyVectors?style=flat-square" /> --->
+      <p style="margin-bottom: 0.25em;">
+        <a href="https://github.com/LilaShiba/sp00kyvectors">Fork, Pull, Push</a>
       </p>
-      <table>
+     <table>
         <tr>
           <th>Before</th>
           <th>After</th>
@@ -44,7 +43,7 @@
     <!-- Project Sparkle -->
     <td align="center" width="50%" valign="top">
       <a href="https://lilashiba.github.io/sparkle_workshop/">
-        <h3 style="margin-bottom: 0.25em;"><a href='https://lilashiba.github.io/sparkle_workshop/'>🌟 Project Sparkle</a></h3>
+        <h3 style="margin-bottom: 0.25em;">🌟 Project Sparkle</h3>
       </a>
       <img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" alt="Made for Teaching" />
       <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" />
@@ -53,7 +52,46 @@
       <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="150"/>
     </td>
   </tr>
+
+  <!-- ✨ API Gate Row -->
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/LilaShiba/python_packages">
+        <h3 style="margin-bottom: 0.25em;">🔐🔌 API Gate</h3>
+      </a>
+      <img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square" />
+      <img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square" />
+      <img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square" />
+      <p>Unified CLI to control smart devices & APIs from one gateway.</p>
+      <table>
+        <tr>
+          <th>Command</th>
+          <th>Description</th>
+        </tr>
+        <tr><td><code>weather</code></td><td>NOAA weather updates & predictions ✨</td></tr>
+        <tr><td><code>sky</code></td><td>NASA astronomical object feed and space event info. 🌟</td></tr>
+        <tr><td><code>lights</code></td><td>Govee smart light controller with preset themes. 🧙‍♀️</td></tr>
+        <tr><td><code>scan</code></td><td>Local network IP discovery and mapping tool. 🐕</td></tr>
+        <tr><td><code>sensors</code></td><td>Tricorder-style input manager for connected sensors. 🧙‍♀️</td></tr>
+      </table>
+      <p style="margin-bottom: 0.25em;">
+        <a href="https://github.com/LilaShiba/python_packages">Fork, Pull, Push</a>
+      </p>
+      <img src="https://img.shields.io/badge/CLI-Command%20Line%20Magic-pink?style=flat-square" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      🌙 Coming Soon...
+      <br>
+      <br>
+      <br>
+      Generalized Robotic Pet powered by a distributed computing network, analog guts, and unreasonable amounts of love 💞⚙️🔮🤖
+      <br>
+      <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif'>
+    </td>
+  </tr>
 </table>
+
+
 
 ## 🎓 Education
 
@@ -86,7 +124,6 @@ I’ve had the privilege of teaching and designing programs at diverse, global i
 
 
 ## Books
-
 <!-- Book Project -->
 <!-- <td align="center" width="50%" valign="top">
   <a href="https://docs.google.com/document/d/1PUGITyR40SxmWZleIvgzXIQ6FMkKoxt9EZ45sMzovBA/edit?usp=sharing">
