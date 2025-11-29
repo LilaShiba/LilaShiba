@@ -1,6 +1,7 @@
 ## Lila James ✨👩‍💻🌙
 <p align="center">🏳️‍⚧️ Computer Witch, Writer, and Educator 🏳️‍⚧️ <strong></strong></p>
 
+Hi, I’m Lila — a computer scientist who loves building clean, intuitive systems. I split my time between Python, Docker, data engineering, and quantum-curious side projects. I like solving real problems, and enjoy building solutions that are simple, stable, and scalable. 
 
   <div align="center">
 
