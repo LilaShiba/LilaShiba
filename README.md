@@ -1,17 +1,19 @@
 ## Lila James ✨👩‍💻🌙
-<p align="center">🏳️‍⚧️ Computer Witch, Writer, and Educator 🏳️‍⚧️ <strong></strong></p>
+<p align="center">🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ <strong></strong></p>
 
 Hi, I’m Lila — a computer scientist who loves building clean, intuitive systems. I split my time between Python, Docker, data engineering, and quantum-curious side projects. I like solving real problems, and enjoy building solutions that are simple, stable, and scalable. 
 
   <div align="center">
 
-## 📊 GitHub Stats
+
 
 💙💎🧊💎💙[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)💙💎🧊💎💙
 
+<!-- 
+## 📊 GitHub Stats
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=radical&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=radical) |
 |----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-
+-->
 </div>
 
 ## Bespoke Tooling 🛠️⛭
