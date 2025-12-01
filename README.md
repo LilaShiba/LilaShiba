@@ -72,6 +72,7 @@ Hi, I’m Lila — a computer scientist who loves building clean, intuitive syst
           <th>Description</th>
         </tr>
         <tr><td><code>weather</code></td><td>NOAA weather updates & predictions ✨</td></tr>
+        <tr><td><code>nyc</code></td><td>MTA Bus & Train tracker 🚂</td></tr>
         <tr><td><code>sky</code></td><td>NASA astronomical object feed and space event info. 🌟</td></tr>
         <tr><td><code>lights</code></td><td>Govee smart light controller with preset themes. 🧙‍♀️</td></tr>
         <tr><td><code>scan</code></td><td>Local network IP discovery and mapping tool. 🐕</td></tr>
