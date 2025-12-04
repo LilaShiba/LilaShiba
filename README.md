@@ -18,21 +18,23 @@ Hi, I’m Lila — a computer scientist who loves building clean, intuitive syst
 
 ## Bespoke Tooling 🛠️⛭
 
+
+
 <table>
   <tr>
     <!-- Sp00kyVectors -->
     <td align="center" width="50%" valign="top">
       <a href="https://pypi.org/project/Sp00kyVectors/">
-        <h3 style="margin-bottom: 0.25em;">🪄✨💖 Neural Net Generator</h3>
+        <h3 style="margin-bottom:0.25em;">🪄 Neural Net Generator</h3>
       </a>
-      <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
-      <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
-      <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
-      <p>Vector analysis & Bespoke Neural Net Architectures</p>
-      <p style="margin-bottom: 0.25em;">
-        <a href="https://github.com/LilaShiba/sp00kyvectors">Fork, Pull, Push</a>
-      </p>
-     <table>
+      <div>
+        <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
+        <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
+        <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+      </div>
+      <p>Vector analysis & bespoke neural net architectures.</p>
+      <p><a href="https://github.com/LilaShiba/sp00kyvectors">Fork · Pull · Push</a></p>
+      <table>
         <tr>
           <th>Before</th>
           <th>After</th>
@@ -46,25 +48,30 @@ Hi, I’m Lila — a computer scientist who loves building clean, intuitive syst
     <!-- Project Sparkle -->
     <td align="center" width="50%" valign="top">
       <a href="https://lilashiba.github.io/sparkle_workshop/">
-        <h3 style="margin-bottom: 0.25em;">🌟 Project Sparkle</h3>
+        <h3 style="margin-bottom:0.25em;">🌟 Project Sparkle</h3>
       </a>
-      <img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" alt="Made for Teaching" />
-      <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
-      <p>Bringing AI creativity to life with interactive workshops and shimmering style.</p>
-      <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="150"/>
+      <div>
+        <img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
+      </div>
+      <p>Interactive AI creativity workshops & shimmering style.</p>
+      <a href="https://lilashiba.github.io/sparkle_workshop/">
+        <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="150"/>
+      </a>
     </td>
   </tr>
-
-  <!-- ✨ API Gate Row -->
   <tr>
+    <!-- API Gate -->
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/LilaShiba/python_packages">
-        <h3 style="margin-bottom: 0.25em;">🔐🔌 API Gate</h3>
+        <h3 style="margin-bottom:0.25em;">🔐 API Gate</h3>
       </a>
-      <img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square" />
-      <img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square" />
-      <img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square" />
+      <div>
+        <img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square" />
+        <img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square" />
+        <img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square" />
+      </div>
       <p>Unified CLI to control smart devices & APIs from one gateway.</p>
       <table>
         <tr>
@@ -78,23 +85,22 @@ Hi, I’m Lila — a computer scientist who loves building clean, intuitive syst
         <tr><td><code>scan</code></td><td>Local network IP discovery and mapping tool. 🐕</td></tr>
         <tr><td><code>sensors</code></td><td>Tricorder-style input manager for connected sensors. 🧙‍♀️</td></tr>
       </table>
-      <p style="margin-bottom: 0.25em;">
-        <a href="https://github.com/LilaShiba/python_packages">Fork, Pull, Push</a>
-      </p>
+      <p><a href="https://github.com/LilaShiba/python_packages">Fork · Pull · Push</a></p>
       <img src="https://img.shields.io/badge/CLI-Command%20Line%20Magic-pink?style=flat-square" />
     </td>
+    <!-- Docker Swarm Pet -->
     <td align="center" width="50%" valign="top">
-      <br>
-      <a href="https://github.com/LilaShiba/swarm_pet"> 🚧 Docker Swarm Pet In Progress...🚧 </a>
-      <br>
-      <br>
-      <br>
-      Generalized Robotic Pet powered by a distributed computing network, analog guts, and unreasonable amounts of love 💞⚙️🔮🤖
-      <br>
-      <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif'>
+      <a href="https://github.com/LilaShiba/swarm_pet">
+        <h3 style="margin-bottom:0.25em;">🚧 Docker Swarm Pet</h3>
+      </a>
+      <p>Generalized robotic pet powered by a distributed computing network, analog guts, and love 💞⚙️🔮🤖</p>
+      <a href="https://github.com/LilaShiba/swarm_pet">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="150"/>
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
