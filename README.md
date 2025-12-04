@@ -40,7 +40,7 @@ Hi, I’m Lila — a computer scientist passionate about building clean, intuiti
 
   <td align="center" width="50%" valign="top">
     <a href="https://lilashiba.github.io/sparkle_workshop/">
-      <h3>🌟 Project Sparkle</h3>
+      <h3>🌟 LED Clothing</h3>
     </a>
     <div>
       <img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" />
