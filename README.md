@@ -84,7 +84,8 @@ Hi, I’m Lila — a computer scientist who loves building clean, intuitive syst
       <img src="https://img.shields.io/badge/CLI-Command%20Line%20Magic-pink?style=flat-square" />
     </td>
     <td align="center" width="50%" valign="top">
-      🌙 Coming Soon...
+      <br>
+      <a href="https://github.com/LilaShiba/swarm_pet"> 🚧 Docker Swarm Pet In Progress...🚧 </a>
       <br>
       <br>
       <br>
