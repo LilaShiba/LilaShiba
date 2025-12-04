@@ -17,14 +17,14 @@ Hi, I’m Lila — a computer scientist passionate about building clean, intuiti
 <tr>
   <td align="center" width="50%" valign="top">
     <a href="https://pypi.org/project/Sp00kyVectors/">
-      <h3>🪄 Neural Net Generator</h3>
+      <h3>🪄 Dynamic Neural Net Generator</h3>
     </a>
     <div>
       <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
       <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
       <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
     </div>
-    <p>Vector analysis & bespoke neural net architectures.</p>
+    <p>Clean, analyze, & build/train diverse neural net architectures.</p>
     <p><a href="https://github.com/LilaShiba/sp00kyvectors">Fork · Pull · Push</a></p>
     <table>
       <tr>
