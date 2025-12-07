@@ -146,7 +146,6 @@ Hi, I’m Lila — a computer scientist passionate about building clean, intuiti
     <img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" />
     <img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" />
     <img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
-    <img src="https://img.shields.io/badge/Writing-Hard%20Sci--Fi%20%2B%20Character-Driven-red?style=flat-square" />
   </td>
 </tr>
 </table>
