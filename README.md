@@ -87,6 +87,10 @@ Hi, I’m Lila — a computer scientist passionate about building clean, intuiti
     <p>Generalized robotic pet powered by a distributed computing network, analog guts, and love 💞⚙️🔮🤖</p>
     <a href="https://github.com/LilaShiba/swarm_pet">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="150"/>
+      <br>
+      <ul>
+        <li> <a href= "https://github.com/LilaShiba/swarm_pet"> Swarm and AI OS</a></li>
+      </ul>
     </a>
   </td>
 </tr>
