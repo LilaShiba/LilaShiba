@@ -6,8 +6,7 @@
   
   💙💎🧊💎💙[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)💙💎🧊💎💙
 
-  <img src="https://camo.githubusercontent.com/f93184db318f142de3d074cddac581c61dd15e31fbdea3434267ba978d065400/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635371714e51534e7932654a6c33366a633469432d484958736d6e3738555a5942733456672673" />
-</div>
+
 
 
 Hi, I’m Lila — a computer scientist passionate about building clean, intuitive systems. I split my time between Python, data engineering, and quantum-curious side projects. I enjoy solving real problems and building solutions that are **simple, stable, and scalable**.
