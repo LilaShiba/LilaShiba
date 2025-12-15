@@ -9,7 +9,10 @@
 
 
 
-Hi, I’m Lila — a computer scientist passionate about building clean, intuitive systems. I split my time between Python, data engineering, and quantum-curious side projects. I enjoy solving real problems and building solutions that are **simple, stable, and scalable**.
+Hi, I’m Lila ✨ a computer scientist passionate about building human-centered systems.  
+I split my time between Python, data engineering, and quantum-curious side projects.  
+I enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in the field.
+
   <div align="center">
 
 
