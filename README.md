@@ -10,7 +10,7 @@
 
 
 Hi, I’m Lila ✨ a computer scientist passionate about building human-centered systems.  
-I split my time engineering thinking systems, and getting lost in quantum-curious side projects.  
+I split my time engineering thinking algorithms, and getting lost in quantum-curious side projects.  
 I also enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in the field.
 
   <div align="center">
