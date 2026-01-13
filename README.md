@@ -9,7 +9,7 @@
 
 
 
-Hi, I’m Lila ✨ a computer scientist passionate about building human-centered systems.  
+Hi, I’m Lila-Josey ✨ a computer scientist passionate about building human-centered systems.  
 I split my time engineering thinking algorithms, and getting lost in quantum-curious side projects.  
 I also enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in the field.
 
@@ -27,7 +27,7 @@ I also enjoy walks with my dog 🐶, high tea with friends, and the constant lea
 <tr>
   <td align="center" width="50%" valign="top">
     <a href="https://pypi.org/project/Sp00kyVectors/">
-      <h3>🪄 Dynamic Neural Net Generator</h3>
+      <h3>Spectral</h3>
     </a>
     <div>
       <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
