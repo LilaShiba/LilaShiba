@@ -6,13 +6,38 @@
 [![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)  
 💙💎🧊💎💙
 
-Hi, I’m Lila-Josey ✨ a computer scientist passionate about building human-centered systems.  
-I split my time engineering thinking algorithms, and getting lost in quantum-curious side projects.  
+Hi, I’m Lila-Josey ✨ I create dynamic systems.
+I split my time engineering thinking algorithms and writing literary fiction.
 I also enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in the field.
 
 </div>
 
 ---
+
+
+## 📚 Writing & Books
+
+### 📘 Human Manual for Machines · <a href="https://docs.google.com/document/d/1xXcowbdC6QtG1pDs2AhIIQplkh6IXP-r7h1aRY-WSRI/edit?usp=sharing">Read manuscript</a>
+
+A field guide for reclaiming technological autonomy & exploring the  
+human–machine interface through stories, ethical hacking, and systems thinking.
+
+<img src="https://img.shields.io/badge/Status-Under%20Peer%20Review-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Genre-System%20Dynamics-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Target%20Length-~75,000-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Writing-System%20Dynamics%20%2B%20Cyberpunk-red?style=flat-square" />
+
+---
+
+### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">Read manuscript</a>
+
+A hard sci-fi odyssey aboard a generation starship exploring class,  
+love, and cybernetics.
+
+<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
 
 ## Bespoke Tooling 🛠️⛭
 
@@ -105,26 +130,3 @@ analog guts, and love 💞⚙️🔮🤖
 
 ---
 
-## 📚 Writing & Books
-
-### 📘 Human Manual for Machines · <a href="https://docs.google.com/document/d/1xXcowbdC6QtG1pDs2AhIIQplkh6IXP-r7h1aRY-WSRI/edit?usp=sharing">Read manuscript</a>
-
-A field guide for reclaiming technological autonomy & exploring the  
-human–machine interface through stories, ethical hacking, and systems thinking.
-
-<img src="https://img.shields.io/badge/Status-Under%20Peer%20Review-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Genre-System%20Dynamics-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Target%20Length-~75,000-lightgrey?style=flat-square" />
-<img src="https://img.shields.io/badge/Writing-System%20Dynamics%20%2B%20Cyberpunk-red?style=flat-square" />
-
----
-
-### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">Read manuscript</a>
-
-A hard sci-fi odyssey aboard a generation starship exploring class,  
-love, and cybernetics.
-
-<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" />
-<img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
