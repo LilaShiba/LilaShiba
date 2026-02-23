@@ -15,7 +15,7 @@ I also enjoy walks with my dog 🐶, high tea with friends, and the constant lea
 ---
 
 
-## 📚 Writing & Books
+## 📚 Writings
 
 ### 📘 Human Manual for Machines · <a href="https://docs.google.com/document/d/1xXcowbdC6QtG1pDs2AhIIQplkh6IXP-r7h1aRY-WSRI/edit?usp=sharing">Read manuscript</a>
 
@@ -29,7 +29,7 @@ human–machine interface through stories, ethical hacking, and systems thinking
 
 ---
 
-### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing">Read manuscript</a>
+### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing"> Preview Chapter One </a>
 
 A hard sci-fi odyssey aboard a generation starship exploring class,  
 love, and cybernetics.
@@ -38,6 +38,17 @@ love, and cybernetics.
 <img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" />
 <img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" />
 <img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
+
+### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
+</a>
+
+A literary novel about diagnosis, dissociation, and the fragile geometry of the body —
+exploring illness, identity, and perception through surreal interiority and clinical realism.
+
+<img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Theme-Illness%20%26%20Perception-red?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightgrey?style=flat-square" />
 
 ## Bespoke Tooling 🛠️⛭
 
