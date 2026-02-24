@@ -17,17 +17,6 @@ I also enjoy walks with my dog 🐶, high tea with friends, and the constant lea
 
 ## 📚 Writings
 
-### 📘 Human Manual for Machines · <a href="https://docs.google.com/document/d/1xXcowbdC6QtG1pDs2AhIIQplkh6IXP-r7h1aRY-WSRI/edit?usp=sharing">Read manuscript</a>
-
-A field guide for reclaiming technological autonomy & exploring the  
-human–machine interface through stories, ethical hacking, and systems thinking.
-
-<img src="https://img.shields.io/badge/Status-Under%20Peer%20Review-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Genre-System%20Dynamics-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Target%20Length-~75,000-lightgrey?style=flat-square" />
-<img src="https://img.shields.io/badge/Writing-System%20Dynamics%20%2B%20Cyberpunk-red?style=flat-square" />
-
----
 
 ### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing"> Preview Chapter One </a>
 
