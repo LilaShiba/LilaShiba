@@ -17,6 +17,8 @@ I also enjoy walks with my dog 🐶, high tea with friends, and the constant lea
 
 ## 📚 Writings
 
+Works currently being considered for publication:
+
 ### 🍯 Molasses · <a href="https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing"> Short Story </a>
 
 An intimate portrait of convalescence and control, Molasses investigates the tension between vulnerability and will, and the delicate choreography of being witnessed
