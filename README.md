@@ -6,9 +6,9 @@
 [![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)  
 💙💎🧊💎💙
 
-Hi, I’m Lila-Josey ✨ I create dynamic systems.
-I split my time engineering thinking algorithms and writing literary fiction.
-I also enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in the field.
+Hi, I’m Lila-Josey ✨ I create dynamic systems for living.
+I split my time engineering thinking algorithms, and writing literary fiction.
+I also enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in the field. I've been thinking a lot about the <a href="https://www.youtube.com/watch?v=LUxFzh8r384&t=861s"> Bronze Age</a>, and would like my next Novel to live then!
 
 </div>
 
