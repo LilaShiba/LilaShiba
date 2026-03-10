@@ -7,8 +7,7 @@
 💙💎🧊💎💙
 
 Hi, I’m Lila-Josey ✨ I create dynamic systems with an eye on the future.
-I split my time between engineering thinking-algorithms, and writing literary fiction.
-I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in NYC. I've been thinking a lot about the <a href="https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52"> Bronze Age</a>, and would like my next Novel to live then! Much research first.
+I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in NYC. I've been thinking a lot about the <a href="https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52"> Bronze Age</a> lately.
 
 </div>
 
@@ -17,7 +16,7 @@ I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant l
 
 ## 📚 Writings
 
-Works currently being considered for publication:
+Spring Submissions: Works currently being considered for publication:
 
 ### 🍯 Molasses · <a href="https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing"> Short Story </a>
 
