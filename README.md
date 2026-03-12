@@ -21,7 +21,7 @@ Spring Submissions: Works currently being considered for publication:
 ### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
 </a>
 
-A literary novel about diagnosis, dissociation, and the fragile geometry of the body. This work investigates the tension between vulnerability and will, and the delicate choreography of being witnessed
+A literary novel about diagnosis, dissociation, and the fragile geometry of the body. This work investigates the tension between vulnerability and will, and the delicate choreography of being witnessed as broken
 
 <img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightgrey?style=flat-square" />
 
