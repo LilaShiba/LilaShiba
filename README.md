@@ -18,11 +18,19 @@ I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant l
 
 Spring Submissions: Works currently being considered for publication:
 
-### 🍯 Molasses · <a href="https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing"> Short Story </a>
+### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
+</a>
 
-An intimate portrait of convalescence and control, Molasses investigates the tension between vulnerability and will, and the delicate choreography of being witnessed
+A literary novel about diagnosis, dissociation, and the fragile geometry of the body. This work investigates the tension between vulnerability and will, and the delicate choreography of being witnessed
 
-<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Fiction-blue?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~3,000-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Slowness%20%7C%20Intimacy%20%7C%20Separation-brown?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightgrey?style=flat-square" />
+
+
+### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Short Story </a>
+
+An intimate portrait of convalescence and control while infertile.
+
+<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Fiction-blue?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~450-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Slowness%20%7C%20Intimacy%20%7C%20Separation-brown?style=flat-square" />
 
 
 ### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing"> Preview Chapter One </a>
@@ -32,13 +40,6 @@ love, and cybernetics.
 
 <img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
 
-### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
-</a>
-
-A literary novel about diagnosis, dissociation, and the fragile geometry of the body. This work
-explores illness, identity, and perception through surreal interiority and clinical realism.
-
-<img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Theme-Illness%20%26%20Perception-red?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightgrey?style=flat-square" />
 
 ## Bespoke Tooling 🛠️⛭
 
