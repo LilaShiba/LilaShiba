@@ -1,4 +1,4 @@
-# Lila-Josey ✨👩‍💻🌙
+# Lila-Josey 🏳️‍⚧️🎗️🌙
 
 <div align="center">
   
