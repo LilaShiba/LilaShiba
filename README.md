@@ -21,22 +21,16 @@ Spring Submissions: Works currently being considered for publication:
 ### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
 </a>
 
-A literary novel about diagnosis, dissociation, and the fragile geometry of the body. This work investigates the tension between vulnerability and will, and the delicate choreography of being witnessed as broken
 
-<img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightpink?style=flat-square" />
 
 
 ### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Short Story </a>
 
-An intimate portrait of convalescence and control while infertile.
-
-<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Fiction-blue?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~450-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Slowness%20%7C%20Intimacy%20%7C%20Separation-brown?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Fiction-blue?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~450-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Slowness%20%7C%20Intimacy%20%7C%20Separation-blue?style=flat-square" />
 
 
 ### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing"> Preview Chapter One </a>
-
-A hard sci-fi odyssey aboard a generation starship exploring class,  
-love, and cybernetics.
 
 <img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
 
