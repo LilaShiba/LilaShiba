@@ -34,7 +34,7 @@ Programming for good, not evil. These projects give a user granular control of A
 
 ### 🔮 Spectral 
 
-<img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+<img src="https://img.shields.io/github/stars/LilaShiba/Sp00kyVectors?style=flat-square"/><img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
 
 [Diverse neural net architectures](https://github.com/LilaShiba/sp00kyvectors)
 
