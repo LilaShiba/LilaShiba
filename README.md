@@ -16,7 +16,11 @@ I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant l
 
 ## 📚 Writings
 
-Spring Submissions: Works currently being considered for publication:
+Spring Submissions: Work currently being considered for publication:
+
+### 🍯 Molasses · <a href="https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing"> Flash Fiction </a>
+
+<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Elegiac%20%2B%20Restrained-lightpink?style=flat-square" />
 
 ### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
 </a>
@@ -36,6 +40,7 @@ Spring Submissions: Works currently being considered for publication:
 
 
 ## Bespoke Tooling 🛠️⛭
+Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! 
 
 ### 🔮 Spectral 
 
