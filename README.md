@@ -2,9 +2,6 @@
 
 <div align="center">
   
-💙💎🧊💎💙  
-[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-000?style=for-the-badge&logo=github)](https://github.com/users/LilaShiba/achievements/arctic-code-vault-contributor)  
-💙💎🧊💎💙
 
 Hi, I’m Lila-Josey ✨ I create dynamic systems with an eye on the future.
 I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in NYC. I've been thinking a lot about the <a href="https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52"> Bronze Age</a> lately. My main goal is to be a human, even while working!
