@@ -7,7 +7,7 @@
 💙💎🧊💎💙
 
 Hi, I’m Lila-Josey ✨ I create dynamic systems with an eye on the future.
-I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in NYC. I've been thinking a lot about the <a href="https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52"> Bronze Age</a> lately.
+I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in NYC. I've been thinking a lot about the <a href="https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52"> Bronze Age</a> lately. My main goal is to be a human, even while working!
 
 </div>
 
@@ -29,7 +29,7 @@ Spring Submissions: Work currently being considered for publication:
 <img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightpink?style=flat-square" />
 
 
-### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Short Story </a>
+### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Flash Fiction </a>
 
 <img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Fiction-blue?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~450-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Slowness%20%7C%20Intimacy%20%7C%20Separation-blue?style=flat-square" />
 
