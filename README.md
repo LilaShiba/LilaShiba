@@ -20,7 +20,7 @@ Spring Submissions: Work currently being considered for publication:
 
 ### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
 
-<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Taut%20%2B%20Procedural-lightpink?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~75000-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Taut%20%2B%20Procedural-lightpink?style=flat-square" />
 
 ### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Flash Fiction </a>
 
