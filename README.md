@@ -13,7 +13,6 @@ I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant l
 
 ---
 
-
 ## 📚 Writings
 
 Spring Submissions: Work currently being considered for publication:
@@ -23,22 +22,16 @@ Spring Submissions: Work currently being considered for publication:
 <img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Elegiac%20%2B%20Restrained-lightpink?style=flat-square" />
 
 ### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
-</a>
 
-
-<img src="https://img.shields.io/badge/Status-Draft%20Complete-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Genre-Literary%20Fiction-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /> <img src="https://img.shields.io/badge/Tone-Psychological%20%2B%20Minimalist-lightpink?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Taut%20%2B%20Procedural-lightpink?style=flat-square" />
 
 ### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Flash Fiction </a>
 
-<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Fiction-blue?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~450-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Illness%20%7C%20Slowness%20%7C%20Intimacy%20%7C%20Separation-blue?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Lyric%20%2B%20Interior-lightpink?style=flat-square" />
 
 ### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing"> Preview Chapter One </a>
 
-<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~100,000-lightgrey?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-magenta?style=flat-square" />
-
-
+<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-deeppink?style=flat-square" />
 ## Bespoke Tooling 🛠️⛭
 Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! 
 
