@@ -1,18 +1,19 @@
 # Lila-Josey 🏳️‍⚧️🎗️🌙
 
-<div align="center">
-  
-
-Hi, I’m Lila-Josey ✨ I create dynamic systems with an eye on the future.
-I mostly enjoy walks with my dog 🐶, high tea with friends, and the constant learning inherent in NYC. I've been thinking a lot about the <a href="https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52"> Bronze Age</a> lately. My main goal is to be a human, even while working!
-
-</div>
+### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
 ---
 
-## 📚 Writings
 
-Spring Submissions: Work currently being considered for publication:
+Hi, I’m **Lila-Josey** ✨
+I create dynamic systems with an eye on the future. This includes writing :)
+
+I enjoy long walks with my dog 🐶, high tea with friends, and the constant learning that is NYC.  
+Lately, I’ve been thinking a lot about the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52). My main goal is simple: to be human, even while working.
+
+
+
+## 📚 Spring Submissions: 
 
 ### 🍯 Molasses · <a href="https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing"> Flash Fiction </a>
 
@@ -26,10 +27,9 @@ Spring Submissions: Work currently being considered for publication:
 
 <img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Lyric%20%2B%20Interior-lightpink?style=flat-square" />
 
-### 🚀 Run · <a href="https://docs.google.com/document/d/1FXwVA_uB_syeZlOrUr-lBib8KcAeAH1EjR88HeLuX1E/edit?usp=sharing"> Preview Chapter One </a>
 
-<img src="https://img.shields.io/badge/Status-Draft-orange?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple?style=flat-square" /><img src="https://img.shields.io/badge/Target%20Length-~100,000-pink?style=flat-square" /><img src="https://img.shields.io/badge/Themes-Cybernetics%20%7C%20Class%20%7C%20Ecocide-deeppink?style=flat-square" />
 ## Bespoke Tooling 🛠️⛭
+
 Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! 
 
 ### 🔮 Spectral 
