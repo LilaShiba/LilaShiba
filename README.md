@@ -2,18 +2,15 @@
 
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
----
+Hi, I’m **Lila-Josey** ✨  
+I create intelligent systems with an eye on the future. This includes writing, sewing, and engineering.
 
-
-Hi, I’m **Lila-Josey** ✨
-I create dynamic systems with an eye on the future. This includes writing :)
-
-I enjoy long walks with my dog 🐶, high tea with friends, and the constant learning that is NYC.  
-Lately, I’ve been thinking a lot about the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52). My main goal is simple: to be human, even while working.
+My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
+Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
 
 
 ## ✍️ Works in Progress
-
+Feel free to reach out! 
 | Title | Description |
 |-------|-------------|
 | **Through a Prism** | *A literary exploration of the intersection of love & death.* |
