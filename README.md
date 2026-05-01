@@ -12,20 +12,22 @@ I enjoy long walks with my dog 🐶, high tea with friends, and the constant lea
 Lately, I’ve been thinking a lot about the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52). My main goal is simple: to be human, even while working.
 
 
+## ✍️ Works in Progress
 
-## 📚 Spring Submissions: 
+| Title | Description |
+|-------|-------------|
+| **Through a Prism** | *A literary exploration of the intersection of love & death.* |
+| **Do Fuck With Texas** | *A fierce, subversive work interrogating identity and power in our political economy.* |
+| **Killing a Herd** | *A lyrical satire on the collective absurdity of ordinary life.* |
 
-### 🍯 Molasses · <a href="https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing"> Flash Fiction </a>
+## 📚 Spring Submissions
+Works currently being considered:
 
-<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Elegiac%20%2B%20Restrained-lightpink?style=flat-square" />
-
-### 📘 Tiles · <a href="https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing"> Preview Chapter One </a>
-
-<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~75000-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Taut%20%2B%20Procedural-lightpink?style=flat-square" />
-
-### 🍅 Tomato · <a href="https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing"> Flash Fiction </a>
-
-<img src="https://img.shields.io/badge/Status-Under%20Submission-purple?style=flat-square" /><img src="https://img.shields.io/badge/Genre-Literary%20Flash%20Fiction-purple?style=flat-square" /><img src="https://img.shields.io/badge/Word%20Count-~450-pink?style=flat-square" /><img src="https://img.shields.io/badge/Tone-Lyric%20%2B%20Interior-lightpink?style=flat-square" />
+| Title | Format | Status | Genre | Word Count | Tone |
+|------|--------|--------|-------|------------|------|
+| 🍯 **Molasses** | [Flash Fiction](https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing) | Under Submission | Literary Flash Fiction | ~450 | Elegiac + Restrained |
+| 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission | Literary Non-Fiction | ~75,000 | Taut + Procedural |
+| 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Submission | Literary Flash Fiction | ~450 | Lyric + Interior |
 
 
 ## Bespoke Tooling 🛠️⛭
