@@ -13,7 +13,7 @@ Lately, I’ve been thinking a lot about our connection to the [Bronze Age](http
 Feel free to reach out! 
 | Title | Description |
 |-------|-------------|
-| **Through a Prism** | *A literary exploration of the intersection of love & death.* |
+| **[Through a Prism](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing)** | *A literary exploration of the intersection of love & death.* |
 | **Do Fuck With Texas** | *A fierce, subversive work interrogating identity and power in our political economy.* |
 | **Killing a Herd** | *A lyrical satire on the collective absurdity of ordinary life.* |
 
