@@ -14,8 +14,8 @@ Works currently being considered:
 
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 🍯 **Molasses** | [Flash Fiction](https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing) | Under Submission Since March| Literary Flash Fiction | ~450 | Elegiac + Restrained |
 | 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission Since February | Literary Non-Fiction | ~75,000 | Taut + Procedural |
+| 🍯 **Molasses** | [Flash Fiction](https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing) | Under Submission Since March| Literary Flash Fiction | ~450 | Elegiac + Restrained |
 | 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Submission Since March | Literary Flash Fiction| ~450 | Lyric + Interior |
 | 🌈 **Through a Prism** | [Flash Fiction](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Submission Since May | Literary Flash Fiction | ~450 | Lyric + Interior |
 
