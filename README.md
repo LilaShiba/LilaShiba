@@ -9,22 +9,15 @@ My favorite time is with my dog 🐶, high tea with friends, or being a flâneur
 Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
 
 
-## ✍️ Works in Progress
-Feel free to reach out! 
-| Title | Description |
-|-------|-------------|
-| **[Through a Prism](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing)** | *A literary exploration of the intersection of love & death.* |
-| **Do Fuck With Texas** | *A fierce, subversive work interrogating identity and power in our political economy.* |
-| **Killing a Herd** | *A lyrical satire on the collective absurdity of ordinary life.* |
-
 ## 📚 Spring Submissions
 Works currently being considered:
 
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 🍯 **Molasses** | [Flash Fiction](https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing) | Under Submission | Literary Flash Fiction | ~450 | Elegiac + Restrained |
-| 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission | Literary Non-Fiction | ~75,000 | Taut + Procedural |
-| 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Submission | Literary Flash Fiction | ~450 | Lyric + Interior |
+| 🍯 **Molasses** | [Flash Fiction](https://docs.google.com/document/d/1JvGANzZ84-Ov29EJEC3bPaLUgah1rb_EkbebK46bsIE/edit?usp=sharing) | Under Submission Since March| Literary Flash Fiction | ~450 | Elegiac + Restrained |
+| 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission Since February | Literary Non-Fiction | ~75,000 | Taut + Procedural |
+| 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Submission Since March | Literary Flash Fiction| ~450 | Lyric + Interior |
+| 🌈 **Through a Prism** | [Flash Fiction](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Submission Since May | Literary Flash Fiction | ~450 | Lyric + Interior |
 
 
 ## Bespoke Tooling 🛠️⛭
