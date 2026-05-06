@@ -3,15 +3,14 @@
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
 Hi, I’m **Lila-Josey** ✨  
-I create intelligent systems with an eye on the future. This includes writing, sewing, and engineering.
+I create intelligent systems with an eye on the future. This includes writing, sewing, and engineering. All my work is about perception, identity, and constraint. Either in written letters or code.
 
 My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
 Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
 
+# Writing
 
-## 📚 Spring Submissions
-Works currently being considered:
-
+## 📚 Spring Submissions '26
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
 | 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission Since February | Literary Non-Fiction | ~75,000 | Taut + Procedural |
@@ -28,9 +27,9 @@ The following will be submitted Summer '26
 | 🦬 **Killing the Herd**  |  [Flash Fiction]() | Revising | Literary Flash Fiction | ~600 | Sardonic + Ironic  |
 
 
-# 🤖 Machines ⛭
+# 🤖 Systems ⛭
 
-Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge!
+Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! Work is peer-reviewed, tested, and opensourced!
 
 ### 🔮 Spectral 
 
@@ -85,7 +84,7 @@ analog guts, and love 💞⚙️🔮🤖
 </div>
 
 ---
-
+# About Me
 ## 🎓 Education
 
 - **Linux Foundation** — Linux System Administrator (2025)
