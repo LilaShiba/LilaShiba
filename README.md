@@ -8,6 +8,8 @@ I create intelligent systems with an eye on the future. This includes writing, s
 My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
 Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
 
+You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
+
 # Writing
 
 ## 📚 Spring Submissions '26
