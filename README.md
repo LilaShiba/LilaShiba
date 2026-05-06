@@ -1,4 +1,3 @@
-# Lila-Josey 🏳️‍⚧️🎗️🌙
 <!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
@@ -13,6 +12,7 @@ You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
 # Writing
 
 ## 📚 Spring Submissions '26
+
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
 | 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission Since February | Literary Non-Fiction | ~75,000 | Taut + Procedural |
