@@ -1,7 +1,8 @@
 <!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
-Hi, I’m **Lila-Josey** ✨  
+## Hi, I’m **Lila-Josey** ✨  
+
 I create intelligent systems with an eye on the future. This includes writing, sewing, and engineering. All my work is about perception, identity, and constraint. Either in written letters or code.
 
 My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
