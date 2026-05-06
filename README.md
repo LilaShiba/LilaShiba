@@ -20,19 +20,17 @@ Works currently being considered:
 | 🌈 **Through a Prism** | [Flash Fiction](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Submission Since May | Literary Flash Fiction | 630 | Lyric + Interior |
 
 ## 🪞 Currently Working
+The following will be submitted Summer '26
+
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
 | 🩸 **Sometimes She Bleeds**|  [Micro Fiction]() | Drafting | Literary Flash Fiction | ~600 |Tender + Brutal |
 | 🦬 **Killing the Herd**  |  [Flash Fiction]() | Revising | Literary Flash Fiction | ~600 | Sardonic + Ironic  |
 
-Currently working on the following:
 
-Sometimes She Bleeds
-Killing the Herd
+# 🤖 Machines ⛭
 
-## Bespoke Tooling 🛠️⛭
-
-Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! 
+Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge!
 
 ### 🔮 Spectral 
 
