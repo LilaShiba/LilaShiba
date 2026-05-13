@@ -25,9 +25,9 @@ The following will be submitted Summer '26
 
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 🩸 **Sometimes She Bleeds**| Live Link: [Micro Fiction](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Drafting | Literary Flash Fiction | ~600 |Queer love |
-| 🦬 **The Wind Blosh Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Revising | Literary Flash Fiction | ~600 | The trans gaze   |
-| 🪦 **Heavy in the Wind**  |  Flash | Drafting | Epitath | ~600 | Pride for the dead |
+| 🩸 **Sometimes She Bleeds**| [Micro Fiction](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Drafting | Literary Flash Fiction | ~500 |Queer love |
+| 🦬 **The Wind Blows Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Revising | Literary Flash Fiction | ~1000 | The trans gaze   |
+| 🪦 **From A Window Sill**  |  Flash | Drafting | Epitath | ~1000 | Pride for the dead |
 
 # 🤖 Systems 🧬
 
