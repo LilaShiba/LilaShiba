@@ -16,7 +16,7 @@ You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
 
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 📘 **Tiles** | [Preview](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Submission Since February | Literary Non-Fiction | ~75,000 | Cancer while transgender |
+| 🦬 **Wind Blows Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Revising | Literary Flash Fiction | ~1000 | The trans gaze   |
 | 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Submission Since April | Literary Flash Fiction| 557 | Family & fertility |
 | 🌈 **Through a Prism** | [Flash Fiction](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Submission Since May | Literary Flash Fiction | 630 | Death & love |
 
@@ -25,9 +25,7 @@ The following will be submitted Summer '26
 
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 🩸 **Sometimes She Bleeds**| [Micro Fiction](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Drafting | Literary Flash Fiction | ~500 |Queer love |
-| 🦬 **The Wind Blows Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Revising | Literary Flash Fiction | ~1000 | The trans gaze   |
-| 🪦 **From A Window Sill**  |  Flash | Drafting | Epitath | ~1000 | Pride for the dead |
+| 🩸 **Brazen Head**| [Micro Fiction](#) | Drafting | Literary Flash Fiction | ~500 |Queer love |
 
 # 🤖 Systems 🧬
 
