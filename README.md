@@ -3,7 +3,7 @@
 
 ## Hi, I’m **Lila-Josey** ✨  
 
-I create intelligent systems with an eye on the future. This includes writing, sewing, and engineering. All my work is about perception, identity, and constraint. Either in written letters or code.
+I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work is about perception, identity, and learning. Either in written letters or code.
 
 My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
 Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
@@ -14,9 +14,10 @@ You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
 
 ## 📚 Spring Submissions '26
 
+
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 🦬 **Wind Blows Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Revising | Literary Flash Fiction | ~1000 | The trans gaze   |
+| 🦬 ** The Wind Blows Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Revising | Literary Flash Fiction | ~1000 | The trans gaze   |
 | 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Submission Since April | Literary Flash Fiction| 557 | Family & fertility |
 | 🌈 **Through a Prism** | [Flash Fiction](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Submission Since May | Literary Flash Fiction | 630 | Death & love |
 
@@ -25,7 +26,7 @@ The following will be submitted Summer '26
 
 | Title | Format | Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|------------|------|
-| 🩸 **Brazen Head**| [Micro Fiction](#) | Drafting | Literary Flash Fiction | ~500 |Queer love |
+| 🩸 **Brazen Head**| [Micro Fiction](#) | Drafting | Literary Flash Fiction | ~1000 |Queer love |
 
 # 🤖 Systems 🧬
 
