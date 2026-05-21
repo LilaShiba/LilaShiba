@@ -3,7 +3,7 @@
 
 ## Hi, I’m **Lila-Josey** ✨  
 
-I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work is about perception, identity, and learning. Either in written letters or code.
+I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work is about perception, connection, and exploration. The rest are just the tools for the job.
 
 My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
 Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
@@ -29,7 +29,7 @@ The following will be submitted Summer '26
 | Title| Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|----------|
 | 🩸 **Brazen Head**| Drafting | Literary Flash Fiction | ~1000 |Queer love |
-| 🩸 **From a Window Sill**| Drafting | Literary Non-Fiction | ~1000 |Absurdism |
+| 🩸 **From a Window Sill**| Editing | Literary Non-Fiction | ~1000 |Absurdism |
 
 
 # 🤖 Systems 🧬
