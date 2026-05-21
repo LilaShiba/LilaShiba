@@ -10,6 +10,8 @@ Lately, I’ve been thinking a lot about our connection to the [Bronze Age](http
 
 You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
 
+Below, are my works currently sitting with editors. 
+
 # Writing
 
 ## 📚 Spring Submissions '26
