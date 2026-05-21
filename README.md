@@ -17,18 +17,20 @@ Below, are my works currently sitting with editors.
 ## 📚 Spring Submissions '26
 
 
-| Title | Format | Status | Genre | Word Count | Tone |
-|------|--------|--------|-------|------------|------|
-| 🦬 **The Wind Blows Heavy**|  [Flash](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Literary Flash Fiction | ~1000 | The trans gaze   |
-| 🍅 **Tomato** | [Flash Fiction](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Under Review  | Literary Flash Fiction| 557 | Family & fertility |
-| 🌈 **Through a Prism** | [Flash Fiction](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Literary Flash Fiction | 630 | Death & love |
+| Title | Status | Genre | Word Count | Tone |
+|-------|--------|-------|------------|------|
+| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Literary Flash Fiction | ~1000 | The trans gaze   |
+| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  |   Micro | 557 | Family & fertility |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Literary Flash Fiction | ~900 | Death & love |
 
 ## 🪞 Currently Working
 The following will be submitted Summer '26
 
-| Title | Format | Status | Genre | Word Count | Tone |
-|------|--------|--------|-------|------------|------|
-| 🩸 **Brazen Head**| [Micro Fiction](#) | Drafting | Literary Flash Fiction | ~1000 |Queer love |
+| Title| Status | Genre | Word Count | Tone |
+|------|--------|--------|-------|----------|
+| 🩸 **Brazen Head**| Drafting | Literary Flash Fiction | ~1000 |Queer love |
+| 🩸 **From a Window Sill**| Drafting | Literary Non-Fiction | ~1000 |Absurdism |
+
 
 # 🤖 Systems 🧬
 
