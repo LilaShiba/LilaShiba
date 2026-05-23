@@ -13,5 +13,5 @@ social_links:
 assets:
   - "styles.css"
 # Remove Default Headers  
-header_pages: null
-title: null
+header_pages: []
+title: false
