@@ -354,7 +354,7 @@ summary {
 }
 
 /* === Responsive Behavior === */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .nav-links {
     display: none;
     flex-direction: column;
@@ -374,4 +374,43 @@ summary {
   .hamburger {
     display: block;
   }
+} */
+
+/* === HARD REMOVE MINIMA HEADER + NAV === */
+
+/* Hide all common Minima header/nav containers */
+.site-header,
+.site-nav,
+.site-title,
+.site-brand,
+.trigger,
+nav.site-nav,
+header.site-header,
+header {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Remove any leftover spacing Minima reserves */
+.page-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Kill title blocks if Minima renders them elsewhere */
+.p-name,
+.site-title,
+.wrapper .site-header {
+  display: none !important;
+}
+
+/* Prevent nav links from accidentally reappearing */
+a.site-title,
+a.site-nav,
+.nav-trigger {
+  display: none !important;
 }
