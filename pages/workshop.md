@@ -11,7 +11,7 @@ permalink: /workshop/
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>✨ Project Sparkle ✨</title>
-  <link href="{{ '/assets/css/styles.css' | relative_url }}" rel="stylesheet" />
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
 </head>
 <!-- Main Header -->
 <header class="navbar">
@@ -25,26 +25,10 @@ permalink: /workshop/
 </header>
 
   <section class="step" style="margin-top: 3em; max-width: 800px; margin-left: auto; margin-right: auto; padding: 2em; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); font-family: 'Helvetica Neue', sans-serif;">
-    <h2 style="text-align: center; font-size: 2em; color:rgb(251, 249, 251); margin-bottom: 0.5em;">🏡 Host a Project Sparkle Workshop at Home</h2>
-    <p class="shimmer-text" style="text-align: center; font-size: 1.1em; max-width: 620px; margin: 0 auto 1.5em;">
-      Bring the magic of Science & Art right to your home.
-    </p>
-    <ul style="list-style: none;">
-      <li><strong>👥 Group Size:</strong> 1 to 7 students</li>
-      <li><strong>⏱ Session Length:</strong> 2 hours</li>
-      <li><strong>⏱ Number of Sessions:</strong> 2 </li>
-      <li><strong>🗓 Flexible Scheduling:</strong> Weekday afternoons, evenings, and weekends</li>
-      <li><strong>💎 Premium Pricing:</strong>
-        <ul style="margin-top: 0.5em; margin-bottom: 0.5em; padding-left: 1.5em;">
-          <li>$250 for 1–2 students</li>
-          <li>$350 for 3–4 students</li>
-          <li>$550 for 5–7 students</li>
-        </ul>
-      </li>
       <li><strong>📦 All materials & wearable tech provided</strong> — tailored to your child’s interests. Just bring your curiosity!</li>
     </ul>
 <details style="margin-top: 1em; background: #000; color: #fff; padding: 1em; border-radius: 8px;">
-  <summary style="cursor: pointer; font-weight: bold;">Why the Price?</summary>
+  <summary style="cursor: pointer; font-weight: bold;">What's Needed?</summary>
   <ul style="margin-top: 0.5em; padding-left: 1.5em;">
     <li><strong>Sewable microcontroller:</strong> Flora Neopixel</li>
     <li><strong>Sewable neopixel LEDs</strong></li>
