@@ -11,7 +11,7 @@ permalink: /story/
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>✨ Project Sparkle ✨</title>
-  <link href="{{ '/assets/css/styles.css' | relative_url }}" rel="stylesheet" />
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
 </head>
 <!-- Main Header -->
 <header class="navbar">
