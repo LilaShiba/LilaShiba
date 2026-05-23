@@ -1,4 +1,21 @@
 <!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
+---
+layout: default
+title: About
+permalink: /About/
+---
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>✨ Lila-Josey ✨</title>
+<link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
+</head>
+
+
+
+<body class='cats'>
+ 
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
 ## Hi, I’m **Lila-Josey** ✨  
@@ -124,6 +141,7 @@ analog guts, and love 💞⚙️🔮🤖
 <div align="center">
   <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" width="280"/>
 </div>
+</body>
 
 ---
 
