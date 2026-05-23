@@ -1,17 +1,19 @@
 <!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
 </head>
 
-<body> 
+<body>
+
 <!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
 
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
-## Hi, I’m **Lila-Josey** ✨  
+## Hi, I’m **Lila-Josey** ✨
 
 I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work explores perception, connection, and the architectures binding them together.
 
@@ -20,37 +22,47 @@ Lately, I’ve been thinking a lot about our connection to the [Bronze Age](http
 
 You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
 
-Below, are my works currently sitting with editors. 
+Below are my works currently sitting with editors.
+
+---
 
 # Writing
 
 ## 📚 Spring Submissions '26
 
-
-| Title | Status | Genre | 
+| Title | Status | Genre |
 |-------|--------|-------|
-| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash | 
-| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  | Micro |
-| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Flash| 
-| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Fiction| 
+| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash |
+| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review | Micro |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | Flash |
+| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Fiction |
+
+---
 
 ## 🪞 Currently Working
-The following will be submitted Summer '26
 
-| Title| Status | Genre | 
+The following will be submitted Summer '26.
+
+| Title | Status | Genre |
 |------|--------|--------|
-| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | 
-| 🍯 **Molasses of Hope**    | Drafting | Literary Flash Fiction | 
-| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | 
- 
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Editing | Literary Non-Fiction |
+| 🍯 **Molasses of Hope** | Drafting | Literary Flash Fiction |
+| 🩸 **Sometimes She Bleeds** | Drafting | Literary Flash Fiction |
+
+---
 
 # 🤖 Systems 🧬
 
-Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! Work is peer-reviewed, tested, and opensourced!
+Programming for good, not evil. These projects give users granular control of AI, down to neuron activation types per layer. Fight the homogenization of knowledge. Work is peer-reviewed, tested, and open-source.
 
-### 🔮 Spectral 
+---
 
-<img src="https://img.shields.io/github/stars/LilaShiba/Sp00kyVectors?style=flat-square"/><img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+### 🔮 Spectral
+
+<img src="https://img.shields.io/github/stars/LilaShiba/Sp00kyVectors?style=flat-square"/>
+<img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" />
+<img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" />
+<img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
 
 [Diverse neural net architectures](https://github.com/LilaShiba/sp00kyvectors)
 
@@ -63,7 +75,9 @@ Programming for good, not evil. These projects give a user granular control of A
 
 ### 🌟 LED Clothing · <a href="https://lilashiba.github.io/sparkle_workshop/">Workshop Site</a>
 
-<img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" /> <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
 
 Interactive AI creativity workshops & shimmering style.
 
@@ -75,11 +89,14 @@ Interactive AI creativity workshops & shimmering style.
 
 ### 🔐 API Gate · <a href="https://github.com/LilaShiba/python_packages">GitHub</a>
 
-<img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square" /><img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square" /><img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square" />
+<img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square" />
+<img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square" />
 
 Unified CLI to control smart devices & APIs from one gateway.
 
-**Commands**
+#### Commands
+
 - `weather` — NOAA weather updates & predictions ✨
 - `nyc` — MTA Bus & Train tracker 🚂
 - `sky` — NASA space event info 🌟
@@ -93,15 +110,16 @@ Unified CLI to control smart devices & APIs from one gateway.
 
 ### 🚧 Docker Swarm Pet · <a href="https://github.com/LilaShiba/swarm_pet">GitHub</a>
 
-Generalized robotic pet powered by a distributed computing network,  
-analog guts, and love 💞⚙️🔮🤖
+Generalized robotic pet powered by a distributed computing network, analog guts, and love 💞⚙️🔮🤖
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="160"/>
 </div>
 
 ---
+
 # About Me
+
 ## 🎓 Education
 
 - **Linux Foundation** — Linux System Administrator (2025)
@@ -113,19 +131,22 @@ analog guts, and love 💞⚙️🔮🤖
 
 ## 💼 Design & Teaching Experience
 
-**Science & Museums**
+### Science & Museums
+
 - Adler Planetarium 🪐
 - Flag House Museum 🏛️
 - IBM 🖥️
 - P5.js Creative Coding 🎨
 
-**K-12 & Higher Education**
+### K-12 & Higher Education
+
 - Riverdale Country School 📚
 - Berkeley Carroll School 📚
 - Dwight School 🏫
 - Georgia Tech 🎓
 
-**Corporate & Industry**
+### Corporate & Industry
+
 - Mastercard 💳
 - Chase Bank 🏦
 - Santander 💰
@@ -138,4 +159,4 @@ analog guts, and love 💞⚙️🔮🤖
 ---
 
 </body>
-
+</html>
