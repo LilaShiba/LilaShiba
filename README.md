@@ -11,8 +11,6 @@
 
 <body class="cats">
 
-<div class="about-page">
-
 > *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
 # ✨ Hi, I’m **Lila-Josey**
