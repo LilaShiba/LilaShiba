@@ -1,17 +1,31 @@
+<!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
+</head>
+
+<body class="cats">
+
+<div class="about-page">
+
 > *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
-# ✨ Lila-Josey James
+# ✨ Hi, I’m **Lila-Josey**
 
-Writer ✍️ · Educator 📚 · Systems Engineer 🤖
+I create intelligent systems with an eye on the future. My work spans writing ✍️, teaching 📚, and engineering 🤖 — all exploring perception, connection, and the architectures binding them together.
 
-I build intelligent systems and write literary fiction with a focus on perception, memory, and human connection.  
-My work moves between AI research, teaching, storytelling, and creative technology.
+My favorite time is spent with my dog 🐶, having high tea with friends 🫖, or wandering the city as a flâneur 🚶‍♀️.
 
-When I’m away from a keyboard, I’m usually walking through the city as a flâneur 🚶‍♀️, spending time with friends over tea 🫖, or with my dog 🐶.
+Lately, I’ve been thinking a lot about our connection to the [Bronze Age 🏺](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
 
-Lately, I’ve been thinking a lot about humanity’s emotional connection to the [Bronze Age 🏺](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
+You can explore my research [here](https://lilashiba.github.io/SND_Agents/).
 
-[🔗 Research & Systems Work](https://lilashiba.github.io/SND_Agents/)
+Below are works currently sitting with editors.
 
 ---
 
@@ -19,133 +33,125 @@ Lately, I’ve been thinking a lot about humanity’s emotional connection to th
 
 ## 📚 Spring Submissions · 2026
 
-| Title | Status | Form |
+| Title | Status | Genre |
 |---|---|---|
-| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash Fiction |
-| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review | Microfiction |
-| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | Flash Fiction |
-| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Literary Fiction |
+| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash |
+| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review | Micro |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | Flash |
+| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Fiction |
 
 ---
 
 ## 🪞 Currently Working
 
-The following pieces are planned for Summer 2026 submissions.
+The following pieces will be submitted Summer ’26.
 
-| Title | Status | Form |
+| Title | Status | Genre |
 |---|---|---|
-| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Editing | Literary Nonfiction |
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Editing | Literary Non-Fiction |
 | 🍯 **Molasses of Hope** | Drafting | Literary Flash Fiction |
 | 🩸 **Sometimes She Bleeds** | Drafting | Literary Flash Fiction |
 
 ---
 
-# 🤖 Systems & Research 🧬
+# 🤖 Systems 🧬
 
-Technology should expand human imagination — not flatten it.
+Programming for good, not evil.
 
-My systems work focuses on interpretable AI, creative tooling, and open-source educational technology.
+These projects focus on giving users granular control over AI systems — down to neuron activation types per layer. My work centers on open-source experimentation, interpretability, and resisting the homogenization of knowledge.
 
 ---
 
 ## 🔮 Spectral
-
-Experimental neural architectures designed for interpretability and diversity in machine intelligence.
 
 <img src="https://img.shields.io/github/stars/LilaShiba/Sp00kyVectors?style=flat-square"/>
 <img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square"/>
 <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square"/>
 <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square"/>
 
-[🔗 View Repository](https://github.com/LilaShiba/sp00kyvectors)
+[Diverse neural net architectures](https://github.com/LilaShiba/sp00kyvectors)
 
 <div align="center">
-  <img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_before_clean.png?raw=true" width="180"/>
-  <img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_after_clean.png?raw=true" width="180"/>
+  <img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_before_clean.png?raw=true" width="150"/>
+  <img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_after_clean.png?raw=true" width="150"/>
 </div>
 
 ---
 
-## 🌟 LED Clothing Workshop
+## 🌟 LED Clothing · <a href="https://lilashiba.github.io/sparkle_workshop/">Workshop Site</a>
 
-Interactive workshops blending wearable technology ✨, storytelling 📖, and AI-assisted creativity 🤖.
-
-<img src="https://img.shields.io/badge/Education-Creative%20Technology-blueviolet?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Storytelling%20%2B%20Ethics-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"/>
 
-[🔗 Workshop Site](https://lilashiba.github.io/sparkle_workshop/)
+Interactive AI creativity workshops ✨ and shimmering wearable design.
 
 <div align="center">
-  <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="220"/>
+  <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="180"/>
 </div>
 
 ---
 
-## 🔐 API Gate
-
-Unified CLI tooling for civic data, smart devices, sensors, and environmental systems 🌎.
+## 🔐 API Gate · <a href="https://github.com/LilaShiba/python_packages">GitHub</a>
 
 <img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square"/>
 <img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square"/>
 <img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square"/>
 
-[🔗 GitHub Repository](https://github.com/LilaShiba/python_packages)
+Unified CLI tooling for smart devices, APIs, and environmental systems.
 
-### Features
+### Commands
 
-- 🌦️ NOAA weather integration
-- 🚂 NYC transit tracking
-- 🌌 NASA event monitoring
-- 💡 Smart lighting control
-- 🖧 Local network discovery
-- 🧪 Environmental sensor management
+- `weather` — NOAA weather updates 🌦️
+- `nyc` — MTA train & bus tracking 🚂
+- `sky` — NASA event information 🌌
+- `lights` — Smart lighting control 💡
+- `scan` — Local network discovery 🖧
+- `sensors` — Tricorder-style sensor management 🧪
+
+[Fork · Pull · Push](https://github.com/LilaShiba/python_packages)
 
 ---
 
-## 🚧 Swarm Pet
+## 🚧 Docker Swarm Pet · <a href="https://github.com/LilaShiba/swarm_pet">GitHub</a>
 
-A distributed robotic companion system powered by edge computing, analog hardware, and affection 💞⚙️🤖
-
-[🔗 View Project](https://github.com/LilaShiba/swarm_pet)
+A generalized robotic pet powered by distributed computing, analog guts, and love 💞⚙️🤖
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="180"/>
 </div>
 
 ---
 
-# 🎓 Education
+# 🎓 About Me
 
-- 🐧 **Linux Foundation** — Linux System Administrator Certification (2025)
-- 💻 **Georgia Institute of Technology** — M.S. Computer Science (2024)
+## Education
+
+- 🐧 **Linux Foundation** — Linux System Administrator (2025)
+- 💻 **Georgia Institute of Technology** — M.Sc. Computer Science (2024)
 - 📖 **Goucher College** — M.A. Cultural Sustainability (2013)
 - 🏛️ **Towson University** — B.S. Sociology (2010)
 
 ---
 
-# 💼 Experience
+## 💼 Design & Teaching Experience
 
-## 📚 Education & Creative Technology
+### 🪐 Science & Museums
+
+- Adler Planetarium
+- Flag House Museum
+- IBM
+- P5.js Creative Coding 🎨
+
+### 📚 K–12 & Higher Education
 
 - Riverdale Country School
 - Berkeley Carroll School
 - Dwight School
-- Georgia Institute of Technology
-- P5.js Creative Coding 🎨
+- Georgia Tech
 
----
+### 🏢 Corporate & Industry
 
-## 🪐 Museums & Cultural Institutions
-
-- Adler Planetarium
-- Flag House Museum
-
----
-
-## 🏢 Industry & Consulting
-
-- IBM
 - Mastercard
 - Chase Bank
 - Santander
@@ -154,5 +160,9 @@ A distributed robotic companion system powered by edge computing, analog hardwar
 ---
 
 <div align="center">
-  <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" width="320"/>
+  <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" width="300"/>
 </div>
+
+</div>
+
+</body>
