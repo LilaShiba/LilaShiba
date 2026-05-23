@@ -15,3 +15,5 @@ assets:
 # Remove Default Headers  
 header_pages: []
 title: false
+minima:
+  nav_pages: []
