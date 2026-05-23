@@ -28,8 +28,8 @@ The following will be submitted Summer '26
 
 | Title| Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|----------|
-| 🩸 **Brazen Head**| Drafting | Literary Flash Fiction | ~1000 |Queer love |
-| 🩸 **From a Window Sill**| Editing | Literary Non-Fiction | ~1000 |Absurdism |
+| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | ~1000 |Queer love |
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | ~1000 |Neo-Noir |
 
 
 # 🤖 Systems 🧬
