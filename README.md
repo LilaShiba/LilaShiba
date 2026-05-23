@@ -3,7 +3,7 @@
 
 ## Hi, I’m **Lila-Josey** ✨  
 
-I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work is about perception, connection, and exploration. The rest are just the tools for the job.
+I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work explores perception, connection, and the architectures binding them together.
 
 My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
 Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
