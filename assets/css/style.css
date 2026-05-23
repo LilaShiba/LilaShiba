@@ -1,0 +1,371 @@
+---
+---
+@import "minima";
+
+/* === Base Overrides === */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #000;      /* Black background */
+  color: #fff;                 /* White text */
+  cursor: "🐈", auto;          /* Corrected custom cursor string fallback */
+}
+
+header.site-header,
+.p-name {
+  display: none !important;    /* Completely hides default Minima header */
+}
+
+/* === Custom Navigation Bar === */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 0.5rem 1.5rem;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.hamburger {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+/* === Typography === */
+h1 {
+  font-size: 2.5em;
+  margin: 0;
+  font-weight: bold;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+}
+
+h3 {
+  color: #fff;
+  font-weight: normal;
+}
+
+/* === Layout Content Components === */
+header {
+  text-align: center;
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.page-content {
+  padding-top: 40px !important; /* Prevents content overlap since header is gone */
+}
+
+.intro-section {
+  padding: 2rem;
+  background-color: #1e1e2f;    /* Changed to dark theme to fit black layout */
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 2rem;
+}
+
+.intro-heading {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.intro-text {
+  font-size: 1.1rem;
+  color: #ddd;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.section.institutions {
+  padding: 2rem 1rem;
+  background-color: #1e1e2f;    /* Fixed to dark background */
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+
+.section-header {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.institution-list {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.75;
+  font-size: 1rem;
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem 2rem;
+}
+
+.institution-list li::before {
+  content: "🌟 ";
+  margin-right: 0.5rem;         /* Repaired typo here */
+}
+
+/* === Github Stats Section === */
+.github-stats-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.github-stats-item {
+  flex: 1 1 320px;
+  max-width: 320px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  background: var(--card-bg, #1e1e2f);
+  padding: 0.5em;
+  transition: transform 0.2s ease-in-out;
+}
+
+.github-stats-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+.github-stats-item img {
+  width: 100%;
+  border-radius: inherit;
+  display: block;
+}
+
+.gif-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: black;
+  border-radius: 1.5rem;
+  box-shadow: 0 0 20px rgba(186, 134, 252, 0.5);
+  max-width: 90%;
+}
+
+.gif-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  border: 2px solid #ba86fc;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.gif-container img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+}
+
+/* === Animation & Interaction Effects === */
+.step {
+  position: relative;
+  background-color: #333;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.step h3 {
+  margin-top: 0;
+  font-weight: bold;
+  color: #3498db;
+}
+
+pre {
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+  max-width: 100%;
+  font-size: 0.95em;
+}
+
+code {
+  color: #e73ca5;
+}
+
+.button {
+  display: inline-block;
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
+
+details {
+  margin-bottom: 15px;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  color: #3498db;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #7f8c8d;
+}
+
+.sparkle-cursor {
+  position: fixed;
+  width: 8px;
+  height: 8px;
+  background: radial-gradient(circle, gold, orange);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 10000;
+  mix-blend-mode: screen;
+  filter: drop-shadow(0 0 4px gold);
+}
+
+.sparkle {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: gold;
+  border-radius: 50%;
+  pointer-events: none;
+  animation: sparkle-fade 0.6s ease-out;
+  z-index: 9999;
+  mix-blend-mode: screen;
+  filter: drop-shadow(0 0 4px gold);
+}
+
+@keyframes sparkle-fade {
+  0% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.4) translateY(-10px);
+  }
+}
+
+.shimmer-text {
+  background: linear-gradient(90deg, #ff7eb9 0%, #ff65a3 25%, #7afcff 50%, #ff65a3 75%, #ff7eb9 100%);
+  background-size: 300% auto;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: shimmer 4s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 100% 0; }
+  50% { background-position: 0% 0; }
+  100% { background-position: 100% 0; }
+}
+
+.slide-fade-in {
+  animation: slideFade 1s ease forwards;
+}
+
+@keyframes slideFade {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.glow-hover {
+  transition: box-shadow 0.3s ease;
+}
+
+.glow-hover.hovered {
+  box-shadow: 0 0 12px 4px var(--glow-color);
+}
+
+.cat {
+  position: absolute;
+  font-size: 2rem;
+  animation: floatUp 2s ease-out forwards;
+  pointer-events: none;
+  z-index: 999;
+}
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+}
+
+/* === Responsive Behavior === */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background-color: #333;
+    position: absolute;
+    top: 70px;
+    right: 0;
+    width: 200px;
+    padding: 1rem;
+    border-radius: 0 0 0 10px;
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+
+  .hamburger {
+    display: block;
+  }
+}
