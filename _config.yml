@@ -14,3 +14,4 @@ assets:
   - "styles.css"
 # Remove Default Headers  
 header_pages: []
+title: false
