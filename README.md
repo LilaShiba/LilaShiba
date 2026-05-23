@@ -19,18 +19,18 @@ Below, are my works currently sitting with editors.
 
 | Title | Status | Genre | Word Count | Tone |
 |-------|--------|-------|------------|------|
-| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Literary Flash Fiction | ~1000 | The trans gaze   |
-| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  |   Micro | 557 | Family & fertility |
-| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Literary Flash Fiction | ~900 | Death & love |
+| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Literary Flash Fiction | ~1000 | Dissociative trans realism   |
+| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  |   Micro | 557 | Domestic body horror |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Literary Flash Fiction | ~900 |  Neo-noir |
 
 ## 🪞 Currently Working
 The following will be submitted Summer '26
 
 | Title| Status | Genre | Word Count | Tone |
 |------|--------|--------|-------|----------|
-| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | ~1000 |Queer love |
-| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | ~1000 |Neo-Noir |
-
+| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | ~1000 | Surrealism |
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | ~1000 | Neo-Noir |
+ 
 
 # 🤖 Systems 🧬
 
