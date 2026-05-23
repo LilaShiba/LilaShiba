@@ -14,8 +14,7 @@ permalink: /About/
 
 
 
-<body class='cats'>
- 
+<!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
 ## Hi, I’m **Lila-Josey** ✨  
@@ -34,21 +33,21 @@ Below, are my works currently sitting with editors.
 ## 📚 Spring Submissions '26
 
 
-| Title | Status | Genre | Word Count | Tone |
-|-------|--------|-------|------------|------|
-| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Literary Flash Fiction | ~1000 | Dissociative trans realism   |
-| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  |   Micro | ~557 | Domestic body horror |
-| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Literary Flash Fiction | ~900 |  Neo-noir |
-| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review |  Flash Non-Fiction | ~1000 | Clinical trans surrealism |
+| Title | Status | Genre | 
+|-------|--------|-------|
+| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash | 
+| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  | Micro |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Flash | |
+| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Fiction| | 
 
 ## 🪞 Currently Working
 The following will be submitted Summer '26
 
-| Title| Status | Genre | Word Count | Tone |
-|------|--------|--------|-------|----------|
-| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | ~1000 | Neo-Noir |
-| 🍯 **Molasses of Hope**    | Drafting | Literary Flash Fiction | ~350 | Domestic decay |
-| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | ~1000 | Surrealism |
+| Title| Status | Genre | 
+|------|--------|--------|
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | 
+| 🍯 **Molasses of Hope**    | Drafting | Literary Flash Fiction | 
+| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | 
  
 
 # 🤖 Systems 🧬
@@ -141,6 +140,10 @@ analog guts, and love 💞⚙️🔮🤖
 <div align="center">
   <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" width="280"/>
 </div>
+
+---
+
+
 </body>
 
 ---
