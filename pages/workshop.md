@@ -25,6 +25,7 @@ permalink: /workshop/
 </header>
 
   <section class="step" style="margin-top: 3em; max-width: 800px; margin-left: auto; margin-right: auto; padding: 2em; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); font-family: 'Helvetica Neue', sans-serif;">
+    <ul>
       <li><strong>📦 All materials & wearable tech provided</strong> — tailored to your child’s interests. Just bring your curiosity!</li>
     </ul>
 <details style="margin-top: 1em; background: #000; color: #fff; padding: 1em; border-radius: 8px;">
