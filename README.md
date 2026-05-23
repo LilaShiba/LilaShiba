@@ -7,9 +7,7 @@
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
 </head>
 
-<body>
 
-<!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
 
 ### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
@@ -158,6 +156,3 @@ Generalized robotic pet powered by a distributed computing network, analog guts,
 
 ---
 
-</body>
-</html>
-```
