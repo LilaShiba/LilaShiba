@@ -1,6 +1,5 @@
 <!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
 
-<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
