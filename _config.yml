@@ -1,4 +1,4 @@
-description: ✨ Project Sparkel ✨.
+description: ✨ Lila-Josey ✨.
 theme: minima
 
 url: "https://lilaShiba.github.io"
@@ -8,9 +8,9 @@ highlighter: rouge
 
 social_links:
   github: "https://github.com/LilaShiba"
-  twitter: "https://twitter.com/your-username"
-
 
 # Custom CSS file link
 assets:
   - "styles.css"
+# Remove Default Headers  
+header_pages: []
