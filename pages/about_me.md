@@ -1,190 +1,129 @@
----
-layout: default
-permalink: /about/
----
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>✨ Project Sparkle ✨</title>
-  <link href="{{ '/assets/css/styles.css' | relative_url }}" rel="stylesheet" />
-</head>
+<!--- [![Lila-Josey profile views](https://u8views.com/api/v1/github/profiles/13423696/views/day-week-month-total-count.svg)](https://u8views.com/github/LilaShiba) -->
+### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
-<body class="cats">
+## Hi, I’m **Lila-Josey** ✨  
+
+I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work explores perception, connection, and the architectures binding them together.
+
+My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
+Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
+
+You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
+
+Below, are my works currently sitting with editors. 
+
+# Writing
+
+## 📚 Spring Submissions '26
 
 
-<header>
-<section class="intro-section">
-  <div class="container">
-    <h1 class="intro-heading">Lila James <span class="emoji">✨👩‍💻🌙</span></h1>
-    <p class="intro-text">
-      Hey there! I'm a <strong>technologist</strong>, <strong>educator</strong>, and <strong>artist</strong> with over 15 years of international experience. 
-      I’ve taught on six continents, and my work bridges the worlds of science and art. 
-      <br>
-      <center><a href="https://github.com/LilaShiba"
-           style="background: linear-gradient(135deg, #ff69b4, #8a2be2); color: white; padding: 0.75em 1.5em; border-radius: 12px; text-decoration: none; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease-in-out;"
-           aria-label="Learn about Lila">
-          ✨ Portfolio ✨
-        </a></center>
-    </p>
-  </div> 
-  </section>
-</header>
-## 📈 GitHub Stats
+| Title | Status | Genre | Word Count | Tone |
+|-------|--------|-------|------------|------|
+| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Literary Flash Fiction | ~1000 | Dissociative trans realism   |
+| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review  |   Micro | ~557 | Domestic body horror |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review  | Literary Flash Fiction | ~900 |  Neo-noir |
+| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review |  Flash Non-Fiction | ~1000 | Clinical trans surrealism |
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+## 🪞 Currently Working
+The following will be submitted Summer '26
 
-  <div style="flex: 1 1 300px; max-width: 320px;">
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilaShiba&theme=tokyonight)
-  </div>
+| Title| Status | Genre | Word Count | Tone |
+|------|--------|--------|-------|----------|
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing)| Editing | Literary Non-Fiction | ~1000 | Neo-Noir |
+| 🍯 **Molasses of Hope**    | Drafting | Literary Flash Fiction | ~350 | Domestic decay |
+| 🩸 **Sometimes She Bleeds**| Drafting | Literary Flash Fiction | ~1000 | Surrealism |
+ 
 
-  <div style="flex: 1 1 300px; max-width: 320px;">
-    ![LilaShiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilaShiba&show_icons=true&theme=tokyonight&hide_rank=true)
-  </div>
+# 🤖 Systems 🧬
 
-  <div style="flex: 1 1 300px; max-width: 320px;">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaShiba&layout=compact&theme=tokyonight)
-  </div>
+Programming for good, not evil. These projects give a user granular control of AI, down to the neuron-activation type per layer. Fight the homogenization of knowledge! Work is peer-reviewed, tested, and opensourced!
 
+### 🔮 Spectral 
+
+<img src="https://img.shields.io/github/stars/LilaShiba/Sp00kyVectors?style=flat-square"/><img src="https://img.shields.io/pypi/v/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/pyversions/Sp00kyVectors?style=flat-square" /> <img src="https://img.shields.io/pypi/l/Sp00kyVectors?style=flat-square" />
+
+[Diverse neural net architectures](https://github.com/LilaShiba/sp00kyvectors)
+
+<div align="center">
+  <img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_before_clean.png?raw=true" width="140"/>
+  <img src="https://github.com/LilaShiba/sp00kyvectors/blob/main/imgs/temp_after_clean.png?raw=true" width="140"/>
 </div>
 
+---
 
-<section class="step">
-  <div class="container">
-    <h2>Teaching & Design Highlights</h2>
-    <p>I've had the honor of designing and teaching programs at a diverse range of institutions:</p>
-    <ul class="institution-list">
-      <li>The Adler Planetarium</li>
-      <li>
-        Riverdale Country School – 
-        <a href="https://www.niche.com/k12/riverdale-country-school-bronx-ny/" target="_blank" rel="noopener" class="styled-link">
-          voted best private school in America
-        </a>
-      </li>
-      <li>Mastercard</li>
-      <li>Berkeley Carroll School</li>
-      <li>Chase Bank</li>
-      <li>Georgia Institute of Technology</li>
-      <li>IBM</li>
-      <li>The Dwight School</li>
-      <li>KPMG</li>
-      <li>P5.js Creative Coding</li>
-      <li>Santander</li>
-      <li>The Flag House Museum</li>
-      <li>My Dog 🐶</li>
-    </ul>
-    <div class="image-container">
-      <img src="../assets/imgs/estelle.jpg" alt="Estelle the dog, possibly the best co-teacher ever" class="dog-photo" />
-    </div>
-  </div>
-</section>
+### 🌟 LED Clothing · <a href="https://lilashiba.github.io/sparkle_workshop/">Workshop Site</a>
 
+<img src="https://img.shields.io/badge/🎓-Made%20for%20Teaching-blueviolet?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking%20%2B%20Storytelling-orange?style=flat-square" /> <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
 
+Interactive AI creativity workshops & shimmering style.
 
+<div align="center">
+  <img src="https://github.com/LilaShiba/flora_dress/raw/main/assets/videos/iterate.gif" width="160"/>
+</div>
 
-<section class="step">
-  <div class="container">
-    <div class="section-header">
-      <h2>🎓 Education</h2>
-    </div>
-    <div class="content">
-      <h3>Georgia Institute of Technology <span class="emoji">🎓</span></h3>
-      <p>M.Sc. in Computer Science (2024)</p>
-      <h3>Goucher College <span class="emoji">🎓</span></h3>
-      <p>MA in Cultural Sustainability (2013)</p>
-      <h3>Towson University <span class="emoji">📚</span></h3>
-      <p>B.S. in Sociology (2010)</p>
-      <p>Currently obtaining **Linux System Administrator Certificate** from the linux foundation</p>
-    </div>
+---
 
-  </div>
-</section>
+### 🔐 API Gate · <a href="https://github.com/LilaShiba/python_packages">GitHub</a>
 
-<section class="section">
-  <div class="container">
-    <div class="section-header">
-      <h2>💻 Professional Experience</h2>
-    </div>
-    <div class="step glow-hover">
-      <h3>Unqork <span class="emoji">🖥️🌙</span></h3>
-      <p>Software Engineer | Apr 2020 – 2023</p>
-      <ul>
-        <li>Developed and launched fintech applications contributing to over $10M in secured contracts 💰.</li>
-        <li>Engineered proprietary data frameworks to optimize API performance and scalability 📈.</li>
-        <li>Built custom tooling for JavaScript and database interoperability, increasing operational efficiency by 25% 🔧.</li>
-        <li>🩸 Left to battle blood cancer 🩸</li>
-      </ul>
-    </div>
-  </div>
-</section>
+<img src="https://img.shields.io/github/stars/LilaShiba/python_packages?style=flat-square" /><img src="https://img.shields.io/github/last-commit/LilaShiba/python_packages?style=flat-square" /><img src="https://img.shields.io/github/license/LilaShiba/python_packages?style=flat-square" />
 
-<section class="step glow-hover">
-  <div class="container">
-    <h3>🔬 Graduate Research Experience</h3>
-    <p>Design & Intelligence Lab, Georgia Institute of Technology <span class="emoji">🧑‍💻✨</span></p>
-    <p>Graduate Researcher | Dec 2023 – Jun 2024</p>
-    <ul>
-      <li>Deployed custom LLM-based chat agents using NLP models across three MOOCs, enhancing user engagement 💬.</li>
-      <li>Optimized data pipelines, improving model performance and user experience 🚀.</li>
-      <li>Collaborated in agile development cycles, contributing to code reviews and Git workflows 🔄.</li>
-      <li>Left after graduation</li>
-    </ul>
-  </div>
-</section>
+Unified CLI to control smart devices & APIs from one gateway.
 
-<section class="step glow-hover">
-  <div class="container">
-    <h3><span class="emoji">🔮💻</span> Decoded</h3>
-    <p>Product Manager & Technology Consultant | Aug 2018 – Mar 2020</p>
-    <ul>
-      <li>Streamlined client onboarding processes, reducing setup time by 30% ⏱️.</li>
-      <li>Maintained a Net Promoter Score (NPS) of over 80% ⭐.</li>
-      <li>Terminated due to COVID-19</li>
-    </ul>
-  </div>
-</section>
+**Commands**
+- `weather` — NOAA weather updates & predictions ✨
+- `nyc` — MTA Bus & Train tracker 🚂
+- `sky` — NASA space event info 🌟
+- `lights` — Govee smart light controller 🧙‍♀️
+- `scan` — Local network IP discovery 🐕
+- `sensors` — Tricorder-style sensor manager 🧙‍♀️
 
-<section class="section">
-  <div class="container">
-    <div class="section-header">
-      <h2>Teaching Experience 📚</h2>
-    </div>
-    <div class="step glow-hover">
-      <h3><span class="emoji">🌸📚</span> Teach For America</h3>
-      <p>Secondary English Teacher | Jun 2013 – Jun 2016</p>
-      <ul>
-        <li>Implemented data-driven instruction to address and close learning gaps 📊.</li>
-        <li>Created engaging lesson plans to enhance critical thinking and communication skills 📝.</li>
-        <li>Completed AmeriCorps service term</li>
-      </ul>
-    </div>
-    <div class="step glow-hover">
-      <h3>Dwight School <span class="emoji">💻✨</span></h3>
-      <p>IB Computer Science Teacher | Aug 2016 – Jul 2018</p>
-      <ul>
-        <li>Developed Python and Java curricula, increasing enrollment by 300% 📈.</li>
-        <li>Used project-based learning to build algorithm design and problem-solving skills 💡.</li>
-      </ul>
-    </div>
-  </div>
-</section>
+[Fork · Pull · Push](https://github.com/LilaShiba/python_packages)
 
-<section class="step glow-hover">
-  <div class="container">
-    <h3>💻 Riverdale Country School</h3>
-    <p>Computer Science Teacher | Aug 2023 – Jul 2024</p>
-    <ul>
-      <li>Designed and taught advanced courses in Creative CS, Statistics with R, and Creative Tech Projects 🎨💻.</li>
-      <li>Integrated generative art and procedural storytelling into game design classes 🎮✨.</li>
-      <li>Enhanced curriculum with real-world, project-based learning to boost engagement and critical thinking 🔍💡.</li>
-    </ul>
-  </div>
-</section>
+---
 
-<script src="{{ site.baseurl }}/assets/js/cats.js"></script>
-<script src="{{ site.baseurl }}/assets/js/mouse.js"></script>
-<script src="{{ site.baseurl }}/assets/js/confetti.js"></script>
-<script src="{{ site.baseurl }}/assets/js/expandEffect.js"></script>
+### 🚧 Docker Swarm Pet · <a href="https://github.com/LilaShiba/swarm_pet">GitHub</a>
 
-</body>
-</html>
+Generalized robotic pet powered by a distributed computing network,  
+analog guts, and love 💞⚙️🔮🤖
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI5OXVmNDl3dXprZmFnemJpemJwM3h2Mzk0OHIxbHE0ZXl3Z25qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="160"/>
+</div>
+
+---
+# About Me
+## 🎓 Education
+
+- **Linux Foundation** — Linux System Administrator (2025)
+- **Georgia Institute of Technology** — M.Sc. Computer Science (2024)
+- **Goucher College** — M.A. Cultural Sustainability (2013)
+- **Towson University** — B.S. Sociology (2010)
+
+---
+
+## 💼 Design & Teaching Experience
+
+**Science & Museums**
+- Adler Planetarium 🪐
+- Flag House Museum 🏛️
+- IBM 🖥️
+- P5.js Creative Coding 🎨
+
+**K-12 & Higher Education**
+- Riverdale Country School 📚
+- Berkeley Carroll School 📚
+- Dwight School 🏫
+- Georgia Tech 🎓
+
+**Corporate & Industry**
+- Mastercard 💳
+- Chase Bank 🏦
+- Santander 💰
+- KPMG 📊
+
+<div align="center">
+  <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/estelle.jpg?raw=true" width="280"/>
+</div>
+
+---
+
