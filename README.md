@@ -25,26 +25,16 @@ Below are my works currently sitting with editors.
 
 # Writing
 
-## 📚 Spring Submissions '26
+## 📚 Current Pipeline '26
 
 | Title | Status | Genre |
 |-------|--------|-------|
-| 🦬 [**The Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash |
-| 🍅 [**Sliced Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review | Micro |
+| 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Under Review | Flash |
+| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review | Micro |
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Under Review |Non-Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | Flash |
-| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Fiction |
-
----
-
-## 🪞 Currently Working
-
-The following will be submitted Summer '26.
-
-| Title | Status | Genre |
-|------|--------|--------|
-| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Editing | Literary Non-Fiction |
-| 🍯 **Molasses of Hope** | Drafting | Literary Flash Fiction |
-| 🩸 **Sometimes She Bleeds** | Drafting | Literary Flash Fiction |
+| 🧩 [**Ceiling Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review | Non-Fiction |
+| 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Under Review | Fiction |
 
 ---
 
