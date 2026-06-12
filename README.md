@@ -29,7 +29,7 @@ Below are my works currently sitting with editors.
 
 | Title | Status | Genre |
 |-------|--------|-------|
-| 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Upcoming In [Boudin 6/15](https://www.mcneese.edu/thereview/welcome-to-boudin-2/) | CNF Flash |
+| 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin](https://www.mcneese.edu/thereview/the-wind-blows-heavy/) | CNF Flash |
 | 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
 | 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) | Under Review | CNF Micro |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Under Review |Non-Fiction |
