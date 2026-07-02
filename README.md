@@ -27,6 +27,10 @@ Below are my works currently sitting with editors.
 
 ## 📚 Spring Pipeline '26
 
+I have high hopes for **As I Lived** and **Through A Prism** 
+
+I consider these my personal favorites.
+
 | Title | Status | Genre |
 |-------|--------|-------|
 | 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin](https://www.mcneese.edu/thereview/the-wind-blows-heavy/) | CNF Flash |
