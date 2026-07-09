@@ -33,15 +33,25 @@ I consider these my personal favorites.
 
 | Title | Status | Genre |
 |-------|--------|-------|
-| 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin](https://thereview.mcneese.edu/the-wind-blows-heavy/) | CNF Flash |
+| 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/) 6/26 | CNF Flash |
 | 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
-| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) |Publication Upcoming in [The Words Faire](https://www.thewordsfaire.com/) | CNF Micro |
+| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) |Published In [The Words Faire](https://www.thewordsfaire.com/)  7/26| CNF Micro |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Under Review |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF Flash |
 | 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Under Review | Fiction |
 | 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | Under Review  | Fiction |
 | 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | Non-Fiction |
 
+## Summer '26 Works
+
+| Title | Status | Genre |
+| :--- | :--- | :--- |
+| 🧱 [**Girl in the Wall**](https://docs.google.com/document/d/1EZ3j9dQ4_KuyZ-o-xBP-AMe0zPwdZ3AhVoOV5qlj094/edit?usp=sharing) | Under Review | CNF |
+| ⛵ [**On the Way**](#) | Drafting | Fiction |
+| 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
+| 🦊 [**FoxWood Wilds**](#) | Drafting Parts 2-3 | Novel |
+| ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
+| 🚀 [**If's Now Gone**](#) | Dreaming of | Fiction |
 
 
 
