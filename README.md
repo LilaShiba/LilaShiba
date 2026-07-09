@@ -46,7 +46,7 @@ I consider these my personal favorites.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
-| 🧱 [**Girl in the Wall**](https://docs.google.com/document/d/1EZ3j9dQ4_KuyZ-o-xBP-AMe0zPwdZ3AhVoOV5qlj094/edit?usp=sharing) | Under Review | CNF |
+| 🧱 [**Girl in the Wall**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
 | ⛵ [**On the Way**](#) | Drafting | Fiction |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
 | 🦊 [**FoxWood Wilds**](#) | Drafting Parts 2-3 | Novel |
