@@ -35,7 +35,7 @@ I consider these my personal favorites.
 |-------|--------|-------|
 | 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/) 6/26 | CNF Flash |
 | 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
-| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) |Published In [The Words Faire](https://www.thewordsfaire.com/)  7/26| CNF Micro |
+| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) |Published In [The Words Faire](https://www.thewordsfaire.com/) Pre-order meow, out 8/26| CNF Micro |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Under Review |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF Flash |
 | 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Under Review | Fiction |
