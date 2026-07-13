@@ -16,7 +16,11 @@ You can check out my cs research [here](https://lilashiba.github.io/SND_Agents/)
 <br>
 My teaching tools as a [pip package](https://pypi.org/project/Sp00kyVectors/)
 <br>
-Below you can read my works currently sitting with editors. After blood cancer, I began to write, and can't stop.
+and
+<br>
+Below you can read my works currently sitting with editors. 
+<br>
+Several pieces have been active at venues that make me hold my breath.
 
 ---
 
@@ -25,8 +29,6 @@ Below you can read my works currently sitting with editors. After blood cancer, 
 ## 📚 Spring Pipeline '26
 
 I have high hopes for **As I Lived** and **Through A Prism** 
-
-I consider these my personal favorites.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
@@ -40,6 +42,8 @@ I consider these my personal favorites.
 | 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | Non-Fiction |
 
 ## Summer '26 Works
+
+Diving more into pure prose.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
