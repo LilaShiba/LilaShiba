@@ -32,7 +32,7 @@ I have high hopes for **As I Lived** and **Through A Prism**
 I consider these my personal favorites.
 
 | Title | Status | Genre |
-|-------|--------|-------|
+| :--- | :--- | :--- |
 | 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/) 6/26 | CNF Flash |
 | 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
 | 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) |Published In [The Words Faire](https://www.thewordsfaire.com/) Pre-order meow, out 8/26| CNF Micro |
@@ -49,6 +49,7 @@ I consider these my personal favorites.
 | 🧱 [**Girl in the Wall**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
 | ⛵ [**On the Way**](https://docs.google.com/document/d/1a5rSeeB3q6muya3nSO6NDAqylTuUMAKCAQ-_v1wbB1Q/edit?usp=sharing) | Editing | Fiction |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
+🌨️ [**Winter Trails**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 | 🦊 [**FoxWood Wilds**](#) | Drafting Parts 2-3 | Novel |
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
 | 🚀 [**If's Now Gone**](#) | Dreaming of | Fiction |
