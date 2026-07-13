@@ -12,14 +12,11 @@
 
 ## Hi, I’m **Lila-Josey** ✨
 
-I create intelligent systems with an eye on the future. This includes writing, teaching, and engineering. All my work explores perception, connection, and the architectures binding them together.
-
-My favorite time is with my dog 🐶, high tea with friends, or being a flâneur.  
-Lately, I’ve been thinking a lot about our connection to the [Bronze Age](https://youtu.be/LUxFzh8r384?si=HFA9Kzv7C_pAYzhe&t=52).
-
-You can check out my research [here](https://lilashiba.github.io/SND_Agents/).
-
-Below are my works currently sitting with editors.
+You can check out my cs research [here](https://lilashiba.github.io/SND_Agents/)
+<br>
+My teaching tools as a [pip package](https://pypi.org/project/Sp00kyVectors/)
+<br>
+Below you can read my works currently sitting with editors. After blood cancer, I began to write, and can't stop.
 
 ---
 
