@@ -43,7 +43,7 @@ I have high hopes for **As I Lived** and **Through A Prism**
 
 ## Summer '26 Works
 
-Diving more into pure prose.
+Diving more into pure prose. Drones in America is quickly becoming a book of its own.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
@@ -51,6 +51,7 @@ Diving more into pure prose.
 | ⛵ [**On the Way**](https://docs.google.com/document/d/1a5rSeeB3q6muya3nSO6NDAqylTuUMAKCAQ-_v1wbB1Q/edit?usp=sharing) | Under Review | CNF |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
 ⌯⌲ [**Drones in America**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
+⌲ [**Drones in America Part 2**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 | 🦊 [**FoxWood Wilds**](#) | Drafting Parts 2-3 | Novel |
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
 | 🚀 [**If's Now Gone**](#) | Dreaming of | Fiction |
