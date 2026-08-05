@@ -16,7 +16,9 @@ You can check out my cs research [here](https://lilashiba.github.io/SND_Agents/)
 <br>
 My teaching tools as a [pip package](https://pypi.org/project/Sp00kyVectors/)
 <br>
-&
+<div class="divider">
+  <img src="https://media1.tenor.com/m/RB7EiuaWgZAAAAAC/glitter-bling.gif" alt="">
+</div>
 <br>
 Below you can read my works currently sitting with editors. 
 <br>
