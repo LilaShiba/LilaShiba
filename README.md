@@ -54,7 +54,7 @@ Diving more into pure prose. Drones in America is quickly becoming a book of its
 🔥 [**Drones in America Part 2**](https://docs.google.com/document/d/1SonK3M-gP08T1stXkW3KA-2_j1E91aE58nj5taiYNUI/edit?usp=sharing) | Under Review | Fiction |
 | 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first half ~30k Words | Novel |
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
-| 🚀 [**Sometimes She Bleeds**](#) | Dreaming of | Fiction |
+| 🚀 [**A Simple Spell**](https://docs.google.com/document/d/1X_i3GXPazhoi1L6P1ARtIAtz7HMDEzpzjiplkcsOO5k/edit?usp=sharing) | Under Review Shockingly | Non-Fiction |
 
 
 
