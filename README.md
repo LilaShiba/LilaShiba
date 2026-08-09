@@ -58,7 +58,7 @@ Diving more into pure prose. Drones in America is quickly becoming a book of its
 
 
 
-
+Additionally, I am in the running for several grants/residencies in order to support finishing my first novel!  
 ---
 
 # 🤖 Systems 🧬
