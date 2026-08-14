@@ -47,8 +47,8 @@ Diving more into pure prose. Drones in America is quickly becoming a book of its
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
-| 🧱 [**Girl in the Wall**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
-| ⛵ [**On the Way**](https://docs.google.com/document/d/1a5rSeeB3q6muya3nSO6NDAqylTuUMAKCAQ-_v1wbB1Q/edit?usp=sharing) | Under Review | CNF |
+| 🧱 [**What About The Dog?**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
+| ⛵ [**Sometimes She Bleeds**](https://docs.google.com/document/d/1a5rSeeB3q6muya3nSO6NDAqylTuUMAKCAQ-_v1wbB1Q/edit?usp=sharing) | Under Review | CNF |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
 ⌯⌲ [**Drones in America Part 1**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 🔥 [**Drones in America Part 2**](https://docs.google.com/document/d/1SonK3M-gP08T1stXkW3KA-2_j1E91aE58nj5taiYNUI/edit?usp=sharing) | Under Review | Fiction |
