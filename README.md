@@ -33,9 +33,9 @@ I have high hopes for **As I Lived** and **Through A Prism**
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
-| 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) | 6/26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
+| 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) |Published 6/26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
 | 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
-| 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) |  8/26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
+| 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published 8/26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Under Review |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF |
 | 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Under Review | Fiction |
@@ -49,7 +49,7 @@ A book of its own is appearing.
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🧱 [**What About The Dog?**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
-| ⛵ [**Sometimes She Bleeds**](https://docs.google.com/document/d/1a5rSeeB3q6muya3nSO6NDAqylTuUMAKCAQ-_v1wbB1Q/edit?usp=sharing) | Under Review | CNF |
+| ⛵ [**Sometimes She Bleeds**](https://www.cafelitmagazine.uk) | Published 09/04 [cafelit](https://www.cafelitmagazine.uk) | CNF |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
 ⌯⌲ [**House on Fire**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 🔥 [**American Drones**](https://docs.google.com/document/d/1SonK3M-gP08T1stXkW3KA-2_j1E91aE58nj5taiYNUI/edit?usp=sharing) | Under Review | Fiction |
