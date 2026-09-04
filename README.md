@@ -49,7 +49,7 @@ A book of its own is appearing.
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🧱 [**What About The Dog?**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
-| ⛵ [**Sometimes She Bleeds**](https://www.cafelitmagazine.uk) | Published 09/26 [cafelit](https://www.cafelitmagazine.uk) | Fiction |
+| ⛵ [**Sometimes She Bleeds**](https://www.cafelitmagazine.uk/2026/09/sometimes-she-bleeds-by-lila-josey.html) | Published 09/26 [cafelit](https://www.cafelitmagazine.uk/2026/09/sometimes-she-bleeds-by-lila-josey.html) | Fiction |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
 ⌯⌲ [**House on Fire**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 🔥 [**American Drones**](https://docs.google.com/document/d/1SonK3M-gP08T1stXkW3KA-2_j1E91aE58nj5taiYNUI/edit?usp=sharing) | Under Review | Fiction |
