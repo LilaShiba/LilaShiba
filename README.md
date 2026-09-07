@@ -57,7 +57,9 @@ A book of its own is appearing.
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
 | 🚀 [**A Simple Spell**](https://docs.google.com/document/d/1X_i3GXPazhoi1L6P1ARtIAtz7HMDEzpzjiplkcsOO5k/edit?usp=sharing) | Under Review Shockingly | Non-Fiction |
 | ✈️ [**On The Nose**](https://docs.google.com/document/d/1UwnK9kLLsHIF7QicaDxNPo5mlP4WFTzW9xQpJCpzOqU/edit?usp=sharing) |Under Review | Fiction |
-| 🏔️ [**Plastic-ity**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Under Review | Fiction |
+| 🏔️ [**Plastic-ity**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Under Review | CNF |
+| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Under Review | Fiction |
+
 
 
 
