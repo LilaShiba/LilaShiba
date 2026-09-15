@@ -29,7 +29,7 @@ Several pieces have been active at venues that make me hold my breath.
 
 ## 📚 Spring Pipeline '26
 
-I have high hopes for **As I Lived** and **Through A Prism** 
+I love how **As I Lived** and **Through A Prism** split editors
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ I have high hopes for **As I Lived** and **Through A Prism**
 
 ## Summer '26 Works
 
-A book of its own is appearing.
+**You Don't Want This** and **Sometimes She Bleeds** feel most like me.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
@@ -61,10 +61,17 @@ A book of its own is appearing.
 |🏝️  [**Pilgrimage to Fire Island**]('#') |Drafting | Fiction |
 | ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Editing | Fiction |
 
+## Residencies 
+
+For some reason, these make me more nervous. Purely for support in writing my first novel. 
+| Title | Status | Genre |
+| :--- | :--- | :--- |
+| 🧱 [**Centrum**](https://centrum.org/centrum-artist-in-residency-programs/) | Under Review | Washington State |
+| ⛵ [**SmokeLong Quarterly Emerging Writer Fellowship**](https://www.smokelong.com/the-smokelong-emerging-writer-fellowship-2027/) | Under Review | NYC |
+| ⛵ [**NYC Emerging Writer Fellowship**](https://centerforfiction.org/grants-awards/nyc-emerging-writers-fellowship/) | Under Review | NYC |
 
 
 
-Additionally, I am in the running for several grants/residencies in order to support finishing my first novel!  
 
 ---
 
