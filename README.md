@@ -33,7 +33,7 @@ I love how **As I Lived** and **Through A Prism** split editors
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF |
 | 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Editing Based on Editor Feedback | Fiction |
 | 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | To be published winter '27  | Fiction |
-| 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | Non-Fiction |
+| 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | CNF |
 
 ## Summer '26 Works
 
@@ -52,7 +52,7 @@ I love how **As I Lived** and **Through A Prism** split editors
 | ✈️ [**Out The Nose**](https://docs.google.com/document/d/1UwnK9kLLsHIF7QicaDxNPo5mlP4WFTzW9xQpJCpzOqU/edit?usp=sharing) |Under Review | Fiction |
 | 🏔️ [**You Don't Want This**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Under Review | CNF |
 |🏝️  [**Pilgrimage to Fire Island**]('#') |Drafting | Fiction |
-| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Editing | Literary Essay |
+| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Editing | Fiction |
 
 ## Residencies 
 
