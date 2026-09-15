@@ -8,19 +8,12 @@
 
 
 
-### *“All that man does is but dust.” — Gilgamesh, Tablet VII*
 
 ## Hi, I’m **Lila-Josey** ✨
-
-You can check out my cs research [here](https://lilashiba.github.io/SND_Agents/)
 <br>
-My teaching tools as a [pip package](https://pypi.org/project/Sp00kyVectors/)
+Since May 2026  
 <br>
-
-<br>
-Below you can read my works currently sitting with editors. 
-<br>
-Several pieces have been active at venues that make me hold my breath.
+I have four publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
 <br>
 
 ---
@@ -74,8 +67,17 @@ For some reason, these make me more nervous. Purely for support in writing my fi
 
 
 ---
+## Science Career  
+
+<br>
+I started out doing CS research [here](https://lilashiba.github.io/SND_Agents/)
+<br>
+Naturally, teaching with my own tools was the next step [pip package](https://pypi.org/project/Sp00kyVectors/)
+<br>
 
 # 🤖 Systems 🧬
+
+
 
 Programming for good, not evil. These projects give users granular control of AI, down to neuron activation types per layer. Fight the homogenization of knowledge. Work is peer-reviewed, tested, and open-source.
 
