@@ -52,7 +52,7 @@ I love how **As I Lived** and **Through A Prism** split editors
 | ✈️ [**Out The Nose**](https://docs.google.com/document/d/1UwnK9kLLsHIF7QicaDxNPo5mlP4WFTzW9xQpJCpzOqU/edit?usp=sharing) |Under Review | Fiction |
 | 🏔️ [**You Don't Want This**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Under Review | CNF |
 |🏝️  [**Pilgrimage to Fire Island**]('#') |Drafting | Fiction |
-| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Editing | Fiction |
+| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Editing | Literary Essay |
 
 ## Residencies 
 
