@@ -70,8 +70,10 @@ For some reason, these make me more nervous. Purely for support in writing my fi
 ## Science Career  
 
 <br>
+
 I started out doing CS research [here](https://lilashiba.github.io/SND_Agents/)
 <br>
+
 Naturally, teaching with my own tools was the next step [pip package](https://pypi.org/project/Sp00kyVectors/)
 <br>
 
