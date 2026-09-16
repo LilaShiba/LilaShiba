@@ -22,7 +22,7 @@ I have four publications 💖 <br> two resubmits at later dates ⏰ <br> and a t
 
 ## 📚 Spring Pipeline '26
 
-I love how **As I Lived** and **Through A Prism** split editors
+I love that **As I Lived** and **Through A Prism** split editors sharply. That's my job.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ I love how **As I Lived** and **Through A Prism** split editors
 
 ## Summer '26 Works
 
-**You Don't Want This** and **Sometimes She Bleeds** feel most like me.
+**You Don't Want This** and **Sometimes She Bleeds** feel most like me. The latter got picked up quiiiick!
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
