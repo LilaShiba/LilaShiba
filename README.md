@@ -31,8 +31,8 @@ I love how **As I Lived** and **Through A Prism** split editors
 | 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published 8/26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Retired |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF |
-| 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Editing Based on Editor Feedback | Fiction |
-| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | To be published winter '27  | Fiction |
+| 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Asked to Resubmit winter '27 | Fiction |
+| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | Asked to Resubmit winter '27  | Fiction |
 | 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | CNF |
 
 ## Summer '26 Works
@@ -46,9 +46,9 @@ I love how **As I Lived** and **Through A Prism** split editors
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Under Review | Fiction |
 ⌯⌲ [**House on Fire**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 🔥 [**American Drones**](https://docs.google.com/document/d/1SonK3M-gP08T1stXkW3KA-2_j1E91aE58nj5taiYNUI/edit?usp=sharing) | Under Review | Fiction |
-| 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first half ~30k Words | Novel |
+| 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Novel |
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
-| 🚀 [**A Simple Spell**](https://docs.google.com/document/d/1X_i3GXPazhoi1L6P1ARtIAtz7HMDEzpzjiplkcsOO5k/edit?usp=sharing) | Under Review Shockingly | CNF |
+| 🚀 [**A Simple Spell**](https://docs.google.com/document/d/1X_i3GXPazhoi1L6P1ARtIAtz7HMDEzpzjiplkcsOO5k/edit?usp=sharing) | Under Review | Experimental |
 | ✈️ [**Out The Nose**](https://docs.google.com/document/d/1UwnK9kLLsHIF7QicaDxNPo5mlP4WFTzW9xQpJCpzOqU/edit?usp=sharing) |Under Review | Fiction |
 | 🏔️ [**You Don't Want This**](https://docs.google.com/document/d/1A2wOHdbE9qv8EEcNKpBsXeuknKEZyAtDfwXLYE1D8Gg/edit?usp=sharing) |Under Review | CNF |
 |🏝️  [**Pilgrimage to Fire Island**]('#') |Drafting | Fiction |
