@@ -56,8 +56,10 @@ I love how **As I Lived** and **Through A Prism** split editors
 
 ## Residencies 
 
-For some reason, these make me more nervous. Purely for support in writing my first novel. 
-| Title | Status | Genre |
+Being trans limits where I can apply. Notice the increase in laws limiting what trans people can do? 
+<br>
+![img](https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/trans.png)
+| Title | Status | Location |
 | :--- | :--- | :--- |
 | 🧱 [**Centrum**](https://centrum.org/centrum-artist-in-residency-programs/) | Under Review | Washington State |
 | ⛵ [**SmokeLong Quarterly Emerging Writer Fellowship**](https://www.smokelong.com/the-smokelong-emerging-writer-fellowship-2027/) | Under Review | NYC |
