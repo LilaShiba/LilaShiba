@@ -57,9 +57,9 @@ Focusing on writing the book, which is like reading one. Except it hates you.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
-| 🏝️ [**Pilgrimage to Fire Island**]('#') |Drafting | Fiction |
-| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Under Peer Review | Experimental |
-| 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Novel |
+| 🏝️ [**Pilgrimage to Fire Island**]('#') |Drafting | CNF |
+| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Under Review | Experimental CNF |
+| 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Fantasy Novel |
 
 
 ## Residencies 
