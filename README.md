@@ -67,6 +67,8 @@ Focusing on writing the book, which is like reading one. Except it hates you.
 Being trans limits where I can apply. Notice the increase in laws? 
 <br>
 ![img](https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/trans.png)
+
+
 | Title | Status | Location |
 | :--- | :--- | :--- |
 | 🧱 [**Centrum**](https://centrum.org/centrum-artist-in-residency-programs/) | Under Review | Washington State |
