@@ -57,9 +57,11 @@ Focusing on writing the book, which is like reading one. Except it hates you.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
-| 🏝️ [**Pilgrimage to Fire Island**]('#') |Drafting | CNF |
-| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Under Review | Experimental CNF |
-| 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Fantasy Novel |
+| 🏝️ [**Pilgrimage to Fire Island**](https://docs.google.com/document/d/17wojSkmdfBHKUHlGoZbbggzE-2qGKEGCkG4mpcN_Ars/edit?usp=sharing) |Drafting | CNF |
+| ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Under Review | Experimental  |
+| 🦊 [**The Commandant's House**](https://docs.google.com/document/d/1z-4tZnr9IpBj1csUOmI-XDFEmqoOABsvS0_iCNwddmE/edit?usp=sharing) | Drafting  | CNF |
+
+| 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Fantasy  |
 
 
 ## Residencies 
