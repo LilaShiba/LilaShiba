@@ -67,10 +67,11 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 | 🍒 [**Cherry Blossoms**](https://docs.google.com/document/d/1z-4tZnr9IpBj1csUOmI-XDFEmqoOABsvS0_iCNwddmE/edit?usp=sharing) | Under Review  | CNF |
 | 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Fantasy  |
 | 🧈 [**Churned Like Butter**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | Drafting | Fiction |
+| 🩸 [**Transubstantiation**](https://docs.google.com/document/d/1ENV8OouL--awSbB1Zvb-69hYDg-9UWyn3jUYUGeYdcc/edit?usp=sharing) | Under Review | CNF |
 
 
 
-## Residencies 
+## Winter 2027 Residencies 
 
 Being trans limits where I can apply. Notice the increase in laws? 
 <br>
