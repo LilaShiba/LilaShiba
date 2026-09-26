@@ -58,7 +58,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 
 
 ## Fall '26 Works
-Focusing on writing the book, which is like reading one. Except it hates you.
+Focusing on writing the book, which is like reading one. Except it hates you. So much research is going into setting.
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
