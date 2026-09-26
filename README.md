@@ -64,9 +64,9 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 | :--- | :--- | :--- |
 | 🏝️ [**Pilgrimage to Fire Island**](https://docs.google.com/document/d/17wojSkmdfBHKUHlGoZbbggzE-2qGKEGCkG4mpcN_Ars/edit?usp=sharing) |Drafting | CNF |
 | ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Under Review | Experimental  |
-| 🍒 [**Cherry Blossoms**](https://docs.google.com/document/d/1z-4tZnr9IpBj1csUOmI-XDFEmqoOABsvS0_iCNwddmE/edit?usp=sharing) | Drafting  | CNF |
+| 🍒 [**Cherry Blossoms**](https://docs.google.com/document/d/1z-4tZnr9IpBj1csUOmI-XDFEmqoOABsvS0_iCNwddmE/edit?usp=sharing) | Under Review  | CNF |
 | 🦊 [**FoxWood Wilds**](https://docs.google.com/document/d/1_KlX2UiBpzCZjIqN1ag93qlCQMppzSv9Kg9cqL0BvCE/edit?usp=sharing) | Editing first ~30k Words | Fantasy  |
-| 🧈 [**Churned Like Butter**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | First Draft | Fiction |
+| 🧈 [**Churned Like Butter**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | Drafting | Fiction |
 
 
 
