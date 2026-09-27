@@ -9,7 +9,7 @@
 
 
 
-## Hi, I’m **Lila-Josey** ✨
+## Hi, I’m **Lila-Josey** 🏳️‍⚧️
 <br>
 Since May 2026  
 <br>
