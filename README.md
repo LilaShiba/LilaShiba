@@ -73,7 +73,8 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 
 ## Winter 2027 Residencies 
 
-Being trans limits where I can apply. Notice the increase in laws? 
+Being trans and why we need to be around others:
+
 <br>
 ![img](https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/trans.png)
 
@@ -83,6 +84,8 @@ Being trans limits where I can apply. Notice the increase in laws?
 | 🧱 [**Centrum**](https://centrum.org/centrum-artist-in-residency-programs/) | Under Review | Washington State |
 | ⛵ [**SmokeLong Quarterly Emerging Writer Fellowship**](https://www.smokelong.com/the-smokelong-emerging-writer-fellowship-2027/) | Under Review | NYC |
 | ⛵ [**NYC Emerging Writer Fellowship**](https://centerforfiction.org/grants-awards/nyc-emerging-writers-fellowship/) | Under Review | NYC |
+| 🧱 [**Sundress Academy**](https://www.sundresspublications.com/) |Self Declined: lack of funding | Knoxville  |
+
 
 
 
