@@ -76,6 +76,7 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 Being trans and why we need to be around others:
 
 <br>
+
 ![img](https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/trans.png)
 
 
