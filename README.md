@@ -82,7 +82,7 @@ Being trans and why we need to be around others:
 
 | Title | Status | Location |
 | :--- | :--- | :--- |
-| 🧱 [**Centrum**](https://centrum.org/centrum-artist-in-residency-programs/) | Under Review | Washington State |
+| 🧱 [**Centrum**](https://centrum.org/centrum-artist-in-residency-programs/) | Rejected | Washington State |
 | ⛵ [**SmokeLong Quarterly Emerging Writer Fellowship**](https://www.smokelong.com/the-smokelong-emerging-writer-fellowship-2027/) | Under Review | NYC |
 | ⛵ [**NYC Emerging Writer Fellowship**](https://centerforfiction.org/grants-awards/nyc-emerging-writers-fellowship/) | Under Review | NYC |
 | 🧱 [**Sundress Academy**](https://www.sundresspublications.com/) |Self Declined: lack of funding | Knoxville  |
