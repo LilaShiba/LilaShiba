@@ -13,7 +13,7 @@
 <br>
 Since May 2026  
 <br>
-I have four publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
+I have five publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
 <br>
 
 <p align="center">% active from previous months<br>
@@ -32,7 +32,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) |Published 6/26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
-| 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
+| 🩸 [**As I Lived**](https://www.litmagazine.org/) | Published LIT magazine | Fiction |
 | 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published 8/26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Retired |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF |
