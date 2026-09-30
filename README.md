@@ -32,7 +32,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) |Published 6/26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
-| 🩸 [**As I Lived**](https://www.litmagazine.org/) |To Be Published in LIT magazine | Fiction |
+| 🩸 [**As I Lived**](https://www.litmagazine.org/) |To Be Published in [LIT magazine ](https://www.litmagazine.org/) | Fiction |
 | 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published 8/26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Retired |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF |
