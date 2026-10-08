@@ -16,10 +16,10 @@ Since May 2026
 I have five publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
 <br>
 
-<p align="center">% active from previous months<br>
+<!-- <p align="center">% active from previous months<br>
 
   <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/Plotactivepercentages.png" width="500">
-</p>
+</p> -->
 
 ---
 
