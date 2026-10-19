@@ -35,9 +35,9 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | 🩸 [**As I Lived**](https://www.litmagazine.org/) |Published Fall '26 [LIT magazine ](https://www.litmagazine.org/) | Fiction |
 | 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published Summer '26 [Microscopic](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Retired |Fiction |
-| 🌈 [**Through a Prism**](https://www.thewordsfaire.com/) | Publish Fall '26 [The Words Faire](https://www.thewordsfaire.com/) | CNF |
+| 🌈 [**Through a Prism**](https://www.thewordsfaire.com/) | Published Fall '26 [The Words Faire](https://www.thewordsfaire.com/) | CNF |
 | 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) |  Resubmit Winter '27 | Fiction |
-| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | [cafe lit](https://www.cafelitmagazine.uk/2026/09/sometimes-she-bleeds-by-lila-josey.html) Resubmit Winter '27  | Fiction |
+| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | [Cafe lit](https://www.cafelitmagazine.uk/2026/09/sometimes-she-bleeds-by-lila-josey.html) Resubmit Winter '27  | Fiction |
 | 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | CNF |
 
 ## Summer '26 Works
