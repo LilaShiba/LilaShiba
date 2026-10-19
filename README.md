@@ -13,7 +13,7 @@
 <br>
 Since May 2026  
 <br>
-I have six publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
+I have seven publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
 <br>
 
 <!-- <p align="center">% active from previous months<br>
@@ -31,13 +31,13 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
-| 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) |Published 6/26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
-| 🩸 [**As I Lived**](https://www.litmagazine.org/) |Published in Fall '26 [LIT magazine ](https://www.litmagazine.org/) | Fiction |
-| 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published 8/26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
+| 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) |Published Summer '26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
+| 🩸 [**As I Lived**](https://www.litmagazine.org/) |Published Fall '26 [LIT magazine ](https://www.litmagazine.org/) | Fiction |
+| 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Published Summer '26 [The Words Faire](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Retired |Fiction |
 | 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF |
-| 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Asked to Resubmit winter '27 | Fiction |
-| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | [cafe lit](https://www.cafelitmagazine.uk/2026/09/sometimes-she-bleeds-by-lila-josey.html) Winter '27  | Fiction |
+| 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) |  Resubmit Winter '27 | Fiction |
+| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | [cafe lit](https://www.cafelitmagazine.uk/2026/09/sometimes-she-bleeds-by-lila-josey.html) Resubmit Winter '27  | Fiction |
 | 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | CNF |
 
 ## Summer '26 Works
@@ -47,10 +47,10 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🧱 [**What About The Dog?**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
-| ⛵ [**Sometimes She Bleeds**](https://yourimpossiblevoice.com/) | Published 09/26 [ Your Impossible Voice Fall 2026](https://yourimpossiblevoice.com/) | Fiction |
+| ⛵ [**Sometimes She Bleeds**](https://yourimpossiblevoice.com/) | Published Fall '26 [ Your Impossible Voice Fall 2026](https://yourimpossiblevoice.com/) | Fiction |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Revising | Fiction |
 ⌯⌲ [**House on Fire**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
-🔥 [**American Drones**](https://thebookendsreview.com/) | To Be Published 11/26 [Bookend Review](https://thebookendsreview.com/) | Fiction |
+🔥 [**American Drones**](https://thebookendsreview.com/) | Published Fall '26 [Bookend Review](https://thebookendsreview.com/) | Fiction |
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
 | 🚀 [**A Simple Spell**](https://docs.google.com/document/d/1X_i3GXPazhoi1L6P1ARtIAtz7HMDEzpzjiplkcsOO5k/edit?usp=sharing) | Under Review | Experimental |
 | ✈️ [**Out The Nose**](https://docs.google.com/document/d/1UwnK9kLLsHIF7QicaDxNPo5mlP4WFTzW9xQpJCpzOqU/edit?usp=sharing) |Retired: my least favorite story | Fiction |
