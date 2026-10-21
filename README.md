@@ -68,7 +68,7 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 | 🧈 [**Churned Like Butter**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | Under Review | Fiction |
 | 🩸 [**Transubstantiation**](https://docs.google.com/document/d/1ENV8OouL--awSbB1Zvb-69hYDg-9UWyn3jUYUGeYdcc/edit?usp=sharing) | Under Review | CNF |
 | 🌀 [**Death Spiral**](https://docs.google.com/document/d/1Ui3thH3n6vjT2TDcShwrYbGXI7RbyxlefDWsd6ogrW0/edit?usp=sharing) | Under Review | Poetry |
-| 🚬 [**Cellophane**](https://docs.google.com/document/d/1eIzjpfqFuvwvVvNEz72-wlleC-pWp8VPS4qpub5glFM/edit?usp=sharing) | Under Review | Fiction |
+| 🚬 [**Fucking Cory**](https://docs.google.com/document/d/1eIzjpfqFuvwvVvNEz72-wlleC-pWp8VPS4qpub5glFM/edit?usp=sharing) | Under Review | Fiction |
 
 
 ## Winter 2027 Residencies 
