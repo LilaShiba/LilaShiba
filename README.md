@@ -10,12 +10,11 @@
 
 
 ## Hi, I’m **Lila-Josey** 🏳️‍⚧️
-<br>
-I started writing in May 2026  
-<br>
-I have seven publications 💖 <br> two resubmits at later dates ⏰ <br> and a ton of rejections 🙅‍♀️
-<br>
 
+My recent work appears in LIT magazine (As I Lived), Your Impossible Voice (Sometimes She Bleeds), and in Boudin (The Wind Blows Heavy). I'm an emerging author living in Brooklyn with my dog Estelle. We both enjoy tea parties, getting into trouble for the right reason, and aimless walks.
+
+Thank you for your time,
+LJ
 <!-- <p align="center">% active from previous months<br>
 
   <img src="https://github.com/LilaShiba/LilaShiba/blob/main/assets/imgs/Plotactivepercentages.png" width="500">
