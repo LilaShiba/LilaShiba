@@ -46,7 +46,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🧱 [**What About The Dog?**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
-| ⛵ [**Sometimes She Bleeds**](https://yourimpossiblevoice.com/) | Published Fall '26 [ Your Impossible Voice Fall 2026](https://yourimpossiblevoice.com/) | Fiction |
+| ⛵ [**Sometimes She Bleeds**](https://yourimpossiblevoice.com/) | Published Fall '26 [ Your Impossible Voice](https://yourimpossiblevoice.com/) | Fiction |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Revising | Fiction |
 ⌯⌲ [**House on Fire**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | Under Review | Fiction |
 🔥 [**American Drones**](https://thebookendsreview.com/) | Published Fall '26 [Bookend Review](https://thebookendsreview.com/) | Fiction |
@@ -57,7 +57,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 
 
 ## Fall '26 Works
-Focusing on writing the book, which is like reading one. Except it hates you. So much research is going into setting. The FoxWood Wilds is not the project. This one is secret 
+Focusing on writing the book, which is like reading one. Except it hates you. So much research is going into setting. The FoxWood Wilds is not the project. This one is secret. 
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
@@ -66,7 +66,7 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 | 🦊 [**FoxWood Wilds: Chapter 1**](https://docs.google.com/document/d/1jnLR_AUVRih1KAD4o9TcziDw31S_pPZnz5uvvHhooe8/edit?usp=sharing) | Editing first ~30k Words | Fantasy  |
 | 🧈 [**Churned Like Butter**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | Under Review | Fiction |
 | 🩸 [**Transubstantiation**](https://docs.google.com/document/d/1ENV8OouL--awSbB1Zvb-69hYDg-9UWyn3jUYUGeYdcc/edit?usp=sharing) | Under Review | CNF |
-| 🌀 [**Death Spiral**](https://docs.google.com/document/d/1Ui3thH3n6vjT2TDcShwrYbGXI7RbyxlefDWsd6ogrW0/edit?usp=sharing) | Under Review | Poetry |
+| 🌀 [**Fall Poems 3**](https://docs.google.com/document/d/1Ui3thH3n6vjT2TDcShwrYbGXI7RbyxlefDWsd6ogrW0/edit?usp=sharing) | Under Review | Poetry |
 | 🚬 [**Fucking Cory**](https://docs.google.com/document/d/1eIzjpfqFuvwvVvNEz72-wlleC-pWp8VPS4qpub5glFM/edit?usp=sharing) | Under Review | Fiction |
 
 
