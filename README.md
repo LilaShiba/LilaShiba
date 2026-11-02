@@ -11,7 +11,7 @@
 
 ## Hi, I’m **Lila-Josey** 🏳️‍⚧️
 
-My recent work appears in LIT magazine Fall 2026 (As I Lived), Your Impossible Voice (Sometimes She Bleeds) Fall 2026, and in Boudin (The Wind Blows Heavy) Summer 2026. I'm an emerging author living in Brooklyn with my dog Estelle. We both enjoy tea parties, getting into trouble for the right reason, and aimless walks.
+My best work is 🩸 Transubstantiation which leans into my name. I'm an emerging author living in Brooklyn with my dog Estelle. We both enjoy tea parties, getting into trouble for the right reason, and aimless walks. My goal is to show the obviously unknown sharply.
 
 Thank you for your time,
 LJ
