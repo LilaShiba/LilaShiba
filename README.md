@@ -11,7 +11,7 @@
 
 ## Hi, I’m **Lila-Josey** 🏳️‍⚧️
 
-My recent work appears in LIT magazine (As I Lived), Your Impossible Voice (Sometimes She Bleeds), and in Boudin (The Wind Blows Heavy). I'm an emerging author living in Brooklyn with my dog Estelle. We both enjoy tea parties, getting into trouble for the right reason, and aimless walks.
+My recent work appears in LIT magazine Fall 2026 (As I Lived), Your Impossible Voice (Sometimes She Bleeds) Fall 2026, and in Boudin (The Wind Blows Heavy) Summer 2026. I'm an emerging author living in Brooklyn with my dog Estelle. We both enjoy tea parties, getting into trouble for the right reason, and aimless walks.
 
 Thank you for your time,
 LJ
@@ -57,7 +57,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 
 
 ## Fall '26 Works
-Focusing on writing the book, which is like reading one. Except it hates you. So much research is going into setting.
+Focusing on writing the book, which is like reading one. Except it hates you. So much research is going into setting. The FoxWood Wilds is not the project. This one is secret 
 
 | Title | Status | Genre |
 | :--- | :--- | :--- |
