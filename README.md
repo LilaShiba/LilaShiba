@@ -64,7 +64,7 @@ Focusing on writing the book, which is like reading one. Except it hates you. So
 | ✨ [**Black Sparkly Patches**](https://docs.google.com/document/d/1umAmC1pVh4usqgbs0KDRd81bnZCfO_4vMOUs_zjVuLE/edit?usp=sharing) |Under Review | Experimental  |
 | 🍒 [**Cherry Blossoms**](https://docs.google.com/document/d/1z-4tZnr9IpBj1csUOmI-XDFEmqoOABsvS0_iCNwddmE/edit?usp=sharing) | Under Review  | CNF |
 | 🦊 [**FoxWood Wilds: Chapter 1**](https://docs.google.com/document/d/1jnLR_AUVRih1KAD4o9TcziDw31S_pPZnz5uvvHhooe8/edit?usp=sharing) | Editing first ~30k Words | Fantasy  |
-| 🧈 [**Churned Like Butter**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | Under Review | Fiction |
+| 🧈 [**Give Them Hope**](https://docs.google.com/document/d/1sHKMYqDIFRmIB9R60-sxCRoFUfyXfaNXBnIa0ZBmM2c/edit?usp=sharing) | Under Review | Fiction |
 | 🩸 [**Transubstantiation**](https://docs.google.com/document/d/1ENV8OouL--awSbB1Zvb-69hYDg-9UWyn3jUYUGeYdcc/edit?usp=sharing) | Under Review | CNF |
 | 🌀 [**Fall Poems 3**](https://docs.google.com/document/d/1Ui3thH3n6vjT2TDcShwrYbGXI7RbyxlefDWsd6ogrW0/edit?usp=sharing) | Under Review | Poetry |
 | 🚬 [**Fucking Cory**](https://docs.google.com/document/d/1eIzjpfqFuvwvVvNEz72-wlleC-pWp8VPS4qpub5glFM/edit?usp=sharing) | Under Review | Fiction |
