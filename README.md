@@ -31,7 +31,7 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🦬 [**A Wind Blows Heavy**](https://thereview.mcneese.edu/the-wind-blows-heavy/) | Summer '26 [Boudin / Mcneese Review](https://thereview.mcneese.edu/the-wind-blows-heavy/)  | CNF |
-| 🩸 [**As I Lived**](https://www.litmagazine.org/) | Fall '26 [LIT magazine ](https://www.litmagazine.org/) | Fiction |
+| 🩸 [**As I Lived**](https://www.litmagazine.org/) | Fall '26 [LIT magazine Issue 44](https://www.litmagazine.org/) | Fiction |
 | 🍅 [**Tomato**](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection) | Summer '26 [Microscopic](https://www.thewordsfaire.com/shop/p/preorder-microscopic-a-creative-collection)| CNF |
 | 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Retired |Fiction |
 | 🌈 [**Through a Prism**](https://www.thewordsfaire.com/theexhibition/through-a-prism) | Fall '26 [The Words Faire](https://www.thewordsfaire.com/theexhibition/through-a-prism) | CNF |
@@ -46,9 +46,9 @@ I love that **As I Lived** and **Through A Prism** split editors sharply. That's
 | Title | Status | Genre |
 | :--- | :--- | :--- |
 | 🧱 [**What About The Dog?**](https://docs.google.com/document/d/1EZFVgVALSKuPZIC0ijked_MGXeSSxilq2Xq_kmr06sk/edit?usp=sharing) | Under Review | CNF |
-| ⛵ [**Sometimes She Bleeds**](https://yourimpossiblevoice.com/) |  Fall '26 [ Your Impossible Voice](https://yourimpossiblevoice.com/) | Fiction |
+| ⛵ [**Sometimes She Bleeds**](https://yourimpossiblevoice.com/) |  Fall '26  [ Your Impossible Voice Issue 35](https://yourimpossiblevoice.com/) | Fiction |
 | 🐕 [**You Bark I Stay**](https://docs.google.com/document/d/1FVEkWAFsNzDuRN5yZdjr5-3Z9ESP46gfuObnma109_A/edit?usp=sharing) | Revising | Fiction |
-⌯⌲ [**American Drones**](https://docs.google.com/document/d/11SSj_OHMUgX2UuykcAXu1sbR45M9RBYCxu5MylV0d-s/edit?usp=sharing) | TBA Winter '27 | Fiction |
+⌯⌲ [**American Drones**][Radical Catalyst Art & Literary Journal Issue 2.3](https://radicalcatalystjournal.org/) | TBA Winter '27 | Fiction |
 🔥 [**Drones In America**](https://thebookendsreview.com/) |  Spring '27 [Bookend Review](https://thebookendsreview.com/) | Fiction |
 | ⚡ [**Copper Wrot**](https://docs.google.com/document/d/147J-2NZhAoIR5VfWP3pWNyfChf1Rx8_B-fJTX6KCu5o/edit?usp=sharing) | Under Review | Poem |
 | 🚀 [**A Simple Spell**](https://docs.google.com/document/d/1X_i3GXPazhoi1L6P1ARtIAtz7HMDEzpzjiplkcsOO5k/edit?usp=sharing) | Under Review | Experimental |
